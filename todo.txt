@@ -1,0 +1,2 @@
+- porcentagem de empates por ligas
+- porcentagem de jogos que tiveram viradas de 2 gols, por ligas

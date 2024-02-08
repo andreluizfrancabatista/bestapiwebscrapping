@@ -1,0 +1,549 @@
+Nº;Date;Time;Shift;League;HomeTeam;HomePlayer;AwayTeam;AwayPlayer;golsHome;golsAway;FTR
+1;02/08;00:16;Madrugada;ESoccer_Battle;RB Leipzig;Galikooo;Eintracht;Apenko_17;2;1;H
+2;02/08;00:16;Madrugada;ESoccer_Battle;Wolfsburg;Petruchio;Dortmund;palkan;1;4;A
+3;02/08;00:12;Madrugada;ESoccer_Battle;Germany;MeLToSik;England;Kodak;2;3;A
+4;02/08;00:12;Madrugada;ESoccer_Battle;Argentina;Boulevard;France;Inquisitor;0;2;A
+5;02/08;00:04;Madrugada;ESoccer_Battle;Bayer 04;Zzakki;Wolfsburg;Petruchio;3;3;D
+6;02/08;00:04;Madrugada;ESoccer_Battle;Dortmund;palkan;RB Leipzig;Galikooo;0;1;A
+7;02/08;00:00;Madrugada;ESoccer_Battle;Portugal;LaikingDast;Argentina;Boulevard;4;2;H
+8;02/08;00:00;Madrugada;ESoccer_Battle;France;Inquisitor;Germany;MeLToSik;2;3;A
+9;02/07;23:52;Noite;ESoccer_Battle;Eintracht;Apenko_17;Dortmund;palkan;2;1;H
+10;02/07;23:52;Noite;ESoccer_Battle;RB Leipzig;Galikooo;Bayer 04;Zzakki;2;2;D
+11;02/07;23:40;Noite;ESoccer_Battle;Wolfsburg;Petruchio;RB Leipzig;Galikooo;1;1;D
+12;02/07;23:40;Noite;ESoccer_Battle;Bayer 04;Zzakki;Eintracht;Apenko_17;4;1;H
+13;02/07;23:28;Noite;ESoccer_Battle;Napoli;LaikingDast;A.Madrid;MeLToSik;1;3;A
+14;02/07;23:28;Noite;ESoccer_Battle;Dortmund;Inquisitor;Arsenal;Kodak;1;1;D
+15;02/07;23:18;Noite;ESoccer_Battle;AC Milan;Zzakki;Napoli;palkan;3;2;H
+16;02/07;23:18;Noite;ESoccer_Battle;Roma;Petruchio;Inter;Apenko_17;2;1;H
+17;02/07;23:16;Noite;ESoccer_Battle;A.Madrid;MeLToSik;Man Utd;Boulevard;1;1;D
+18;02/07;23:06;Noite;ESoccer_Battle;Inter;Apenko_17;Juventus;Galikooo;2;4;A
+19;02/07;23:06;Noite;ESoccer_Battle;Napoli;palkan;Roma;Petruchio;2;0;H
+20;02/07;23:04;Noite;ESoccer_Battle;Man Utd;Boulevard;Arsenal;Kodak;2;3;A
+21;02/07;23:04;Noite;ESoccer_Battle;Napoli;LaikingDast;Dortmund;Inquisitor;1;2;A
+22;02/07;22:54;Noite;ESoccer_Battle;Roma;Petruchio;AC Milan;Zzakki;0;0;D
+23;02/07;22:54;Noite;ESoccer_Battle;Juventus;Galikooo;Napoli;palkan;2;1;H
+24;02/07;22:52;Noite;ESoccer_Battle;Arsenal;Kodak;A.Madrid;MeLToSik;2;2;D
+25;02/07;22:42;Noite;ESoccer_Battle;Napoli;palkan;Inter;Apenko_17;2;1;H
+26;02/07;22:42;Noite;ESoccer_Battle;AC Milan;Zzakki;Juventus;Galikooo;2;1;H
+27;02/07;22:40;Noite;ESoccer_Battle;Man Utd;Boulevard;Napoli;LaikingDast;2;1;H
+28;02/07;22:40;Noite;ESoccer_Battle;A.Madrid;MeLToSik;Dortmund;Inquisitor;2;2;D
+29;02/07;22:30;Noite;ESoccer_Battle;Juventus;Galikooo;Roma;Petruchio;1;0;H
+30;02/07;22:30;Noite;ESoccer_Battle;Inter;Apenko_17;AC Milan;Zzakki;2;0;H
+31;02/07;22:28;Noite;ESoccer_Battle;Arsenal;Kodak;Dortmund;Inquisitor;2;3;A
+32;02/07;22:28;Noite;ESoccer_Battle;A.Madrid;MeLToSik;Napoli;LaikingDast;2;2;D
+33;02/07;22:18;Noite;ESoccer_Battle;Napoli;palkan;AC Milan;Zzakki;3;3;D
+34;02/07;22:18;Noite;ESoccer_Battle;Inter;Apenko_17;Roma;Petruchio;2;0;H
+35;02/07;22:16;Noite;ESoccer_Battle;Napoli;LaikingDast;Arsenal;Kodak;3;2;H
+36;02/07;22:16;Noite;ESoccer_Battle;Man Utd;Boulevard;A.Madrid;MeLToSik;1;2;A
+37;02/07;22:06;Noite;ESoccer_Battle;Juventus;Galikooo;Inter;Apenko_17;0;1;A
+38;02/07;22:06;Noite;ESoccer_Battle;Roma;Petruchio;Napoli;palkan;2;3;A
+39;02/07;22:04;Noite;ESoccer_Battle;Arsenal;Kodak;Man Utd;Boulevard;3;0;H
+40;02/07;22:04;Noite;ESoccer_Battle;Dortmund;Inquisitor;Napoli;LaikingDast;2;1;H
+41;02/07;21:54;Noite;ESoccer_Battle;AC Milan;Zzakki;Roma;Petruchio;3;1;H
+42;02/07;21:54;Noite;ESoccer_Battle;Napoli;palkan;Juventus;Galikooo;1;1;D
+43;02/07;21:52;Noite;ESoccer_Battle;A.Madrid;MeLToSik;Arsenal;Kodak;2;2;D
+44;02/07;21:52;Noite;ESoccer_Battle;Man Utd;Boulevard;Dortmund;Inquisitor;2;2;D
+45;02/07;21:42;Noite;ESoccer_Battle;Inter;Apenko_17;Napoli;palkan;1;1;D
+46;02/07;21:42;Noite;ESoccer_Battle;Juventus;Galikooo;AC Milan;Zzakki;2;2;D
+47;02/07;21:40;Noite;ESoccer_Battle;Napoli;LaikingDast;Man Utd;Boulevard;4;1;H
+48;02/07;21:40;Noite;ESoccer_Battle;Dortmund;Inquisitor;A.Madrid;MeLToSik;1;1;D
+49;02/07;21:30;Noite;ESoccer_Battle;Roma;Petruchio;Juventus;Galikooo;0;2;A
+50;02/07;21:30;Noite;ESoccer_Battle;AC Milan;Zzakki;Inter;Apenko_17;2;0;H
+51;02/07;21:18;Noite;ESoccer_Battle;PSG;Inquisitor;Barcelona;Kodak;1;3;A
+52;02/07;21:18;Noite;ESoccer_Battle;Man City;LaikingDast;Bayern;MeLToSik;1;0;H
+53;02/07;21:08;Noite;ESoccer_Battle;Netherlands;Zzakki;England;palkan;4;3;H
+54;02/07;21:08;Noite;ESoccer_Battle;Germany;Petruchio;Argentina;Apenko_17;1;1;D
+55;02/07;21:06;Noite;ESoccer_Battle;Barcelona;Kodak;Man City;LaikingDast;3;1;H
+56;02/07;21:06;Noite;ESoccer_Battle;Bayern;MeLToSik;Real Madrid;Boulevard;2;2;D
+57;02/07;20:56;Noite;ESoccer_Battle;Argentina;Apenko_17;Portugal;Galikooo;4;3;H
+58;02/07;20:56;Noite;ESoccer_Battle;England;palkan;Germany;Petruchio;2;1;H
+59;02/07;20:54;Noite;ESoccer_Battle;Real Madrid;Boulevard;Barcelona;Kodak;2;1;H
+60;02/07;20:54;Noite;ESoccer_Battle;Man City;LaikingDast;PSG;Inquisitor;3;0;H
+61;02/07;20:44;Noite;ESoccer_Battle;Portugal;Galikooo;England;palkan;3;1;H
+62;02/07;20:44;Noite;ESoccer_Battle;Germany;Petruchio;Netherlands;Zzakki;0;2;A
+63;02/07;20:42;Noite;ESoccer_Battle;Barcelona;Kodak;Bayern;MeLToSik;1;1;D
+64;02/07;20:42;Noite;ESoccer_Battle;PSG;Inquisitor;Real Madrid;Boulevard;0;1;A
+65;02/07;20:32;Noite;ESoccer_Battle;England;palkan;Argentina;Apenko_17;5;2;H
+66;02/07;20:32;Noite;ESoccer_Battle;Netherlands;Zzakki;Portugal;Galikooo;3;1;H
+67;02/07;20:30;Noite;ESoccer_Battle;Real Madrid;Boulevard;Man City;LaikingDast;3;2;H
+68;02/07;20:30;Noite;ESoccer_Battle;Bayern;MeLToSik;PSG;Inquisitor;1;2;A
+69;02/07;20:20;Noite;ESoccer_Battle;Portugal;Galikooo;Germany;Petruchio;2;4;A
+70;02/07;20:18;Noite;ESoccer_Battle;Barcelona;Kodak;PSG;Inquisitor;1;0;H
+71;02/07;20:18;Noite;ESoccer_Battle;Bayern;MeLToSik;Man City;LaikingDast;3;2;H
+72;02/07;20:08;Noite;ESoccer_Battle;England;palkan;Netherlands;Zzakki;3;2;H
+73;02/07;20:08;Noite;ESoccer_Battle;Argentina;Apenko_17;Germany;Petruchio;1;1;D
+74;02/07;20:06;Noite;ESoccer_Battle;Man City;LaikingDast;Barcelona;Kodak;3;5;A
+75;02/07;20:06;Noite;ESoccer_Battle;Real Madrid;Boulevard;Bayern;MeLToSik;0;3;A
+76;02/07;19:56;Noite;ESoccer_Battle;Portugal;Galikooo;Argentina;Apenko_17;2;3;A
+77;02/07;19:54;Noite;ESoccer_Battle;Barcelona;Kodak;Real Madrid;Boulevard;0;1;A
+78;02/07;19:54;Noite;ESoccer_Battle;PSG;Inquisitor;Man City;LaikingDast;2;3;A
+79;02/07;19:44;Noite;ESoccer_Battle;Netherlands;Zzakki;Germany;Petruchio;0;0;D
+80;02/07;19:44;Noite;ESoccer_Battle;England;palkan;Portugal;Galikooo;1;2;A
+81;02/07;19:42;Noite;ESoccer_Battle;Bayern;MeLToSik;Barcelona;Kodak;0;0;D
+82;02/07;19:42;Noite;ESoccer_Battle;Real Madrid;Boulevard;PSG;Inquisitor;5;0;H
+83;02/07;19:32;Noite;ESoccer_Battle;Argentina;Apenko_17;England;palkan;5;2;H
+84;02/07;19:32;Noite;ESoccer_Battle;Portugal;Galikooo;Netherlands;Zzakki;0;1;A
+85;02/07;19:30;Noite;ESoccer_Battle;Man City;LaikingDast;Real Madrid;Boulevard;3;1;H
+86;02/07;19:30;Noite;ESoccer_Battle;PSG;Inquisitor;Bayern;MeLToSik;0;0;D
+87;02/07;19:20;Noite;ESoccer_Battle;Germany;Petruchio;Portugal;Galikooo;1;4;A
+88;02/07;19:20;Noite;ESoccer_Battle;Netherlands;Zzakki;Argentina;Apenko_17;0;1;A
+89;02/07;19:18;Noite;ESoccer_Battle;France;Daca;England;Kallu;0;2;A
+90;02/07;19:18;Noite;ESoccer_Battle;Argentina;Elmagico;Portugal;MakcwellLm;1;1;D
+91;02/07;19:06;Noite;ESoccer_Battle;England;Kallu;Argentina;Elmagico;4;3;H
+92;02/07;18:58;Noite;ESoccer_Battle;Man Utd;Hermanito;Tottenham;Dacum;0;1;A
+93;02/07;18:54;Noite;ESoccer_Battle;Germany;Izzy;England;Kallu;3;3;D
+94;02/07;18:54;Noite;ESoccer_Battle;Argentina;Elmagico;France;Daca;1;2;A
+95;02/07;18:46;Noite;ESoccer_Battle;Tottenham;Dacum;Man City;Jekos;1;2;A
+96;02/07;18:46;Noite;ESoccer_Battle;Liverpool;Vicmestro;Man Utd;Hermanito;1;2;A
+97;02/07;18:42;Noite;ESoccer_Battle;England;Kallu;Portugal;MakcwellLm;1;1;D
+98;02/07;18:42;Noite;ESoccer_Battle;France;Daca;Germany;Izzy;1;1;D
+99;02/07;18:34;Noite;ESoccer_Battle;Man Utd;Hermanito;Arsenal;Zyen;3;1;H
+100;02/07;18:34;Noite;ESoccer_Battle;Man City;Jekos;Liverpool;Vicmestro;2;2;D
+101;02/07;18:30;Noite;ESoccer_Battle;Germany;Izzy;Argentina;Elmagico;1;1;D
+102;02/07;18:30;Noite;ESoccer_Battle;Portugal;MakcwellLm;France;Daca;0;1;A
+103;02/07;18:22;Noite;ESoccer_Battle;Liverpool;Vicmestro;Tottenham;Dacum;0;2;A
+104;02/07;18:22;Noite;ESoccer_Battle;Arsenal;Zyen;Man City;Jekos;1;4;A
+105;02/07;18:18;Noite;ESoccer_Battle;England;Kallu;France;Daca;5;2;H
+106;02/07;18:18;Noite;ESoccer_Battle;Portugal;MakcwellLm;Argentina;Elmagico;2;1;H
+107;02/07;18:10;Noite;ESoccer_Battle;Man City;Jekos;Man Utd;Hermanito;2;0;H
+108;02/07;18:10;Noite;ESoccer_Battle;Tottenham;Dacum;Arsenal;Zyen;3;0;H
+109;02/07;18:06;Noite;ESoccer_Battle;Germany;Izzy;Portugal;MakcwellLm;4;1;H
+110;02/07;18:06;Noite;ESoccer_Battle;Argentina;Elmagico;England;Kallu;3;7;A
+111;02/07;17:58;Tarde;ESoccer_Battle;Liverpool;Vicmestro;Arsenal;Zyen;1;1;D
+112;02/07;17:58;Tarde;ESoccer_Battle;Tottenham;Dacum;Man Utd;Hermanito;1;2;A
+113;02/07;17:54;Tarde;ESoccer_Battle;France;Daca;Argentina;Elmagico;4;1;H
+114;02/07;17:54;Tarde;ESoccer_Battle;England;Kallu;Germany;Izzy;1;3;A
+115;02/07;17:46;Tarde;ESoccer_Battle;Man City;Jekos;Tottenham;Dacum;2;2;D
+116;02/07;17:46;Tarde;ESoccer_Battle;Man Utd;Hermanito;Liverpool;Vicmestro;1;2;A
+117;02/07;17:42;Tarde;ESoccer_Battle;Portugal;MakcwellLm;England;Kallu;1;3;A
+118;02/07;17:42;Tarde;ESoccer_Battle;Germany;Izzy;France;Daca;1;1;D
+119;02/07;17:34;Tarde;ESoccer_Battle;Arsenal;Zyen;Man Utd;Hermanito;1;1;D
+120;02/07;17:34;Tarde;ESoccer_Battle;Liverpool;Vicmestro;Man City;Jekos;1;1;D
+121;02/07;17:30;Tarde;ESoccer_Battle;Argentina;Elmagico;Germany;Izzy;2;2;D
+122;02/07;17:30;Tarde;ESoccer_Battle;France;Daca;Portugal;MakcwellLm;1;3;A
+123;02/07;17:22;Tarde;ESoccer_Battle;Tottenham;Dacum;Liverpool;Vicmestro;1;2;A
+124;02/07;17:22;Tarde;ESoccer_Battle;Man City;Jekos;Arsenal;Zyen;3;3;D
+125;02/07;17:10;Tarde;ESoccer_Battle;Man Utd;Hermanito;Man City;Jekos;2;2;D
+126;02/07;17:10;Tarde;ESoccer_Battle;Arsenal;Zyen;Tottenham;Dacum;2;1;H
+127;02/07;16:58;Tarde;ESoccer_Battle;Brighton;Daca;Newcastle;Kallu;0;3;A
+128;02/07;16:46;Tarde;ESoccer_Battle;West Ham;MakcwellLm;Aston Villa;Izzy;0;1;A
+129;02/07;16:46;Tarde;ESoccer_Battle;Newcastle;Kallu;Chelsea;Elmagico;3;1;H
+130;02/07;16:38;Tarde;ESoccer_Battle;Roma;Zyen;Villarreal;Vicmestro;3;2;H
+131;02/07;16:38;Tarde;ESoccer_Battle;West Ham;Hermanito;Bayer 04;Dacum;2;1;H
+132;02/07;16:34;Tarde;ESoccer_Battle;Aston Villa;Izzy;Newcastle;Kallu;4;1;H
+133;02/07;16:34;Tarde;ESoccer_Battle;Chelsea;Elmagico;Brighton;Daca;3;1;H
+134;02/07;16:26;Tarde;ESoccer_Battle;Bayer 04;Dacum;Marseille;Jekos;1;0;H
+135;02/07;16:26;Tarde;ESoccer_Battle;Villarreal;Vicmestro;West Ham;Hermanito;2;1;H
+136;02/07;16:22;Tarde;ESoccer_Battle;Newcastle;Kallu;West Ham;MakcwellLm;4;2;H
+137;02/07;16:22;Tarde;ESoccer_Battle;Brighton;Daca;Aston Villa;Izzy;2;2;D
+138;02/07;16:14;Tarde;ESoccer_Battle;Marseille;Jekos;Villarreal;Vicmestro;1;3;A
+139;02/07;16:14;Tarde;ESoccer_Battle;West Ham;Hermanito;Roma;Zyen;0;1;A
+140;02/07;16:10;Tarde;ESoccer_Battle;Aston Villa;Izzy;Chelsea;Elmagico;0;1;A
+141;02/07;16:10;Tarde;ESoccer_Battle;West Ham;MakcwellLm;Brighton;Daca;2;1;H
+142;02/07;16:02;Tarde;ESoccer_Battle;Villarreal;Vicmestro;Bayer 04;Dacum;1;2;A
+143;02/07;16:02;Tarde;ESoccer_Battle;Roma;Zyen;Marseille;Jekos;4;1;H
+144;02/07;15:58;Tarde;ESoccer_Battle;Newcastle;Kallu;Brighton;Daca;2;1;H
+145;02/07;15:58;Tarde;ESoccer_Battle;West Ham;MakcwellLm;Chelsea;Elmagico;2;3;A
+146;02/07;15:50;Tarde;ESoccer_Battle;Marseille;Jekos;West Ham;Hermanito;2;0;H
+147;02/07;15:50;Tarde;ESoccer_Battle;Bayer 04;Dacum;Roma;Zyen;1;3;A
+148;02/07;15:46;Tarde;ESoccer_Battle;Aston Villa;Izzy;West Ham;MakcwellLm;0;1;A
+149;02/07;15:46;Tarde;ESoccer_Battle;Chelsea;Elmagico;Newcastle;Kallu;0;1;A
+150;02/07;15:38;Tarde;ESoccer_Battle;Villarreal;Vicmestro;Roma;Zyen;2;1;H
+151;02/07;15:38;Tarde;ESoccer_Battle;Bayer 04;Dacum;West Ham;Hermanito;6;4;H
+152;02/07;15:34;Tarde;ESoccer_Battle;Brighton;Daca;Chelsea;Elmagico;1;1;D
+153;02/07;15:34;Tarde;ESoccer_Battle;Newcastle;Kallu;Aston Villa;Izzy;4;2;H
+154;02/07;15:26;Tarde;ESoccer_Battle;Marseille;Jekos;Bayer 04;Dacum;1;1;D
+155;02/07;15:26;Tarde;ESoccer_Battle;West Ham;Hermanito;Villarreal;Vicmestro;4;2;H
+156;02/07;15:22;Tarde;ESoccer_Battle;West Ham;MakcwellLm;Newcastle;Kallu;3;2;H
+157;02/07;15:22;Tarde;ESoccer_Battle;Aston Villa;Izzy;Brighton;Daca;3;0;H
+158;02/07;15:14;Tarde;ESoccer_Battle;Roma;Zyen;West Ham;Hermanito;1;2;A
+159;02/07;15:14;Tarde;ESoccer_Battle;Villarreal;Vicmestro;Marseille;Jekos;2;2;D
+160;02/07;15:10;Tarde;ESoccer_Battle;Chelsea;Elmagico;Aston Villa;Izzy;3;1;H
+161;02/07;15:10;Tarde;ESoccer_Battle;Brighton;Daca;West Ham;MakcwellLm;1;2;A
+162;02/07;15:02;Tarde;ESoccer_Battle;Bayer 04;Dacum;Villarreal;Vicmestro;2;2;D
+163;02/07;15:02;Tarde;ESoccer_Battle;Marseille;Jekos;Roma;Zyen;0;4;A
+164;02/07;14:50;Tarde;ESoccer_Battle;West Ham;Hermanito;Marseille;Jekos;2;1;H
+165;02/07;14:48;Tarde;ESoccer_Battle;Wolfsburg;Daca;RB Leipzig;Kallu;1;2;A
+166;02/07;14:48;Tarde;ESoccer_Battle;Dortmund;Elmagico;Bayer 04;MakcwellLm;1;1;D
+167;02/07;14:36;Tarde;ESoccer_Battle;Bayer 04;MakcwellLm;Eintracht;Izzy;0;0;D
+168;02/07;14:36;Tarde;ESoccer_Battle;RB Leipzig;Kallu;Dortmund;Elmagico;2;3;A
+169;02/07;14:28;Tarde;ESoccer_Battle;Galatasaray;Zyen;Inter;Vicmestro;3;1;H
+170;02/07;14:28;Tarde;ESoccer_Battle;AC Milan;Hermanito;Sevilla;Dacum;2;3;A
+171;02/07;14:24;Tarde;ESoccer_Battle;Dortmund;Elmagico;Wolfsburg;Daca;0;2;A
+172;02/07;14:24;Tarde;ESoccer_Battle;Eintracht;Izzy;RB Leipzig;Kallu;1;4;A
+173;02/07;14:16;Tarde;ESoccer_Battle;Sevilla;Dacum;Newcastle;Jekos;0;3;A
+174;02/07;14:16;Tarde;ESoccer_Battle;Inter;Vicmestro;AC Milan;Hermanito;1;1;D
+175;02/07;14:12;Tarde;ESoccer_Battle;RB Leipzig;Kallu;Bayer 04;MakcwellLm;4;1;H
+176;02/07;14:12;Tarde;ESoccer_Battle;Wolfsburg;Daca;Eintracht;Izzy;0;0;D
+177;02/07;14:04;Tarde;ESoccer_Battle;Newcastle;Jekos;Inter;Vicmestro;3;5;A
+178;02/07;14:04;Tarde;ESoccer_Battle;AC Milan;Hermanito;Galatasaray;Zyen;0;0;D
+179;02/07;14:00;Tarde;ESoccer_Battle;Eintracht;Izzy;Dortmund;Elmagico;3;1;H
+180;02/07;14:00;Tarde;ESoccer_Battle;Bayer 04;MakcwellLm;Wolfsburg;Daca;2;0;H
+181;02/07;13:52;Tarde;ESoccer_Battle;Inter;Vicmestro;Sevilla;Dacum;1;3;A
+182;02/07;13:52;Tarde;ESoccer_Battle;Galatasaray;Zyen;Newcastle;Jekos;1;2;A
+183;02/07;13:48;Tarde;ESoccer_Battle;Bayer 04;MakcwellLm;Dortmund;Elmagico;2;2;D
+184;02/07;13:40;Tarde;ESoccer_Battle;Newcastle;Jekos;AC Milan;Hermanito;0;1;A
+185;02/07;13:40;Tarde;ESoccer_Battle;Sevilla;Dacum;Galatasaray;Zyen;1;1;D
+186;02/07;13:36;Tarde;ESoccer_Battle;Eintracht;Izzy;Bayer 04;MakcwellLm;1;1;D
+187;02/07;13:36;Tarde;ESoccer_Battle;Dortmund;Elmagico;RB Leipzig;Kallu;0;2;A
+188;02/07;13:28;Tarde;ESoccer_Battle;Inter;Vicmestro;Galatasaray;Zyen;3;2;H
+189;02/07;13:28;Tarde;ESoccer_Battle;Sevilla;Dacum;AC Milan;Hermanito;2;0;H
+190;02/07;13:24;Tarde;ESoccer_Battle;Wolfsburg;Daca;Dortmund;Elmagico;1;6;A
+191;02/07;13:24;Tarde;ESoccer_Battle;RB Leipzig;Kallu;Eintracht;Izzy;0;0;D
+192;02/07;13:16;Tarde;ESoccer_Battle;Newcastle;Jekos;Sevilla;Dacum;2;3;A
+193;02/07;13:16;Tarde;ESoccer_Battle;AC Milan;Hermanito;Inter;Vicmestro;2;2;D
+194;02/07;13:12;Tarde;ESoccer_Battle;Bayer 04;MakcwellLm;RB Leipzig;Kallu;2;0;H
+195;02/07;13:12;Tarde;ESoccer_Battle;Eintracht;Izzy;Wolfsburg;Daca;2;1;H
+196;02/07;13:04;Tarde;ESoccer_Battle;Galatasaray;Zyen;AC Milan;Hermanito;2;4;A
+197;02/07;13:04;Tarde;ESoccer_Battle;Inter;Vicmestro;Newcastle;Jekos;2;2;D
+198;02/07;13:00;Tarde;ESoccer_Battle;Dortmund;Elmagico;Eintracht;Izzy;1;1;D
+199;02/07;13:00;Tarde;ESoccer_Battle;Wolfsburg;Daca;Bayer 04;MakcwellLm;2;0;H
+200;02/07;12:52;Tarde;ESoccer_Battle;Sevilla;Dacum;Inter;Vicmestro;1;3;A
+201;02/07;12:52;Tarde;ESoccer_Battle;Newcastle;Jekos;Galatasaray;Zyen;1;4;A
+202;02/07;12:48;Tarde;ESoccer_Battle;PSG;Rus_1995_LAN;Barcelona;d1pseN;2;0;H
+203;02/07;12:48;Tarde;ESoccer_Battle;Real Madrid;lowheels;Bayern;Wboy;2;3;A
+204;02/07;12:40;Tarde;ESoccer_Battle;AC Milan;Hermanito;Newcastle;Jekos;1;1;D
+205;02/07;12:40;Tarde;ESoccer_Battle;Galatasaray;Zyen;Sevilla;Dacum;0;0;D
+206;02/07;12:36;Tarde;ESoccer_Battle;Bayern;Wboy;Man City;dm1trena;0;1;A
+207;02/07;12:36;Tarde;ESoccer_Battle;Barcelona;d1pseN;Real Madrid;lowheels;1;1;D
+208;02/07;12:28;Tarde;ESoccer_Battle;Inter;nikkitta;AC Milan;Arcos;3;2;H
+209;02/07;12:28;Tarde;ESoccer_Battle;Napoli;Senior;Juventus;lion;1;3;A
+210;02/07;12:24;Tarde;ESoccer_Battle;Man City;dm1trena;Barcelona;d1pseN;2;2;D
+211;02/07;12:24;Tarde;ESoccer_Battle;Real Madrid;lowheels;PSG;Rus_1995_LAN;1;1;D
+212;02/07;12:16;Tarde;ESoccer_Battle;Juventus;lion;Roma;Koftovsky;2;1;H
+213;02/07;12:16;Tarde;ESoccer_Battle;AC Milan;Arcos;Napoli;Senior;4;1;H
+214;02/07;12:12;Tarde;ESoccer_Battle;Barcelona;d1pseN;Bayern;Wboy;3;1;H
+215;02/07;12:12;Tarde;ESoccer_Battle;PSG;Rus_1995_LAN;Man City;dm1trena;6;2;H
+216;02/07;12:04;Tarde;ESoccer_Battle;Roma;Koftovsky;AC Milan;Arcos;1;1;D
+217;02/07;12:04;Tarde;ESoccer_Battle;Napoli;Senior;Inter;nikkitta;2;3;A
+218;02/07;12:00;Tarde;ESoccer_Battle;Man City;dm1trena;Real Madrid;lowheels;3;1;H
+219;02/07;12:00;Tarde;ESoccer_Battle;Bayern;Wboy;PSG;Rus_1995_LAN;2;6;A
+220;02/07;11:52;Manhã;ESoccer_Battle;AC Milan;Arcos;Juventus;lion;1;1;D
+221;02/07;11:52;Manhã;ESoccer_Battle;Inter;nikkitta;Roma;Koftovsky;2;1;H
+222;02/07;11:48;Manhã;ESoccer_Battle;Barcelona;d1pseN;PSG;Rus_1995_LAN;3;3;D
+223;02/07;11:48;Manhã;ESoccer_Battle;Bayern;Wboy;Real Madrid;lowheels;1;5;A
+224;02/07;11:40;Manhã;ESoccer_Battle;Roma;Koftovsky;Napoli;Senior;2;4;A
+225;02/07;11:40;Manhã;ESoccer_Battle;Juventus;lion;Inter;nikkitta;1;3;A
+226;02/07;11:36;Manhã;ESoccer_Battle;Man City;dm1trena;Bayern;Wboy;2;4;A
+227;02/07;11:36;Manhã;ESoccer_Battle;Real Madrid;lowheels;Barcelona;d1pseN;2;4;A
+228;02/07;11:28;Manhã;ESoccer_Battle;AC Milan;Arcos;Inter;nikkitta;1;0;H
+229;02/07;11:28;Manhã;ESoccer_Battle;Juventus;lion;Napoli;Senior;4;1;H
+230;02/07;11:24;Manhã;ESoccer_Battle;PSG;Rus_1995_LAN;Real Madrid;lowheels;3;0;H
+231;02/07;11:24;Manhã;ESoccer_Battle;Barcelona;d1pseN;Man City;dm1trena;2;4;A
+232;02/07;11:16;Manhã;ESoccer_Battle;Roma;Koftovsky;Juventus;lion;2;3;A
+233;02/07;11:16;Manhã;ESoccer_Battle;Napoli;Senior;AC Milan;Arcos;5;6;A
+234;02/07;11:12;Manhã;ESoccer_Battle;Bayern;Wboy;Barcelona;d1pseN;4;3;H
+235;02/07;11:12;Manhã;ESoccer_Battle;Man City;dm1trena;PSG;Rus_1995_LAN;1;6;A
+236;02/07;11:04;Manhã;ESoccer_Battle;Inter;nikkitta;Napoli;Senior;4;4;D
+237;02/07;11:04;Manhã;ESoccer_Battle;AC Milan;Arcos;Roma;Koftovsky;1;0;H
+238;02/07;11:00;Manhã;ESoccer_Battle;Real Madrid;lowheels;Man City;dm1trena;3;2;H
+239;02/07;11:00;Manhã;ESoccer_Battle;PSG;Rus_1995_LAN;Bayern;Wboy;3;4;A
+240;02/07;10:52;Manhã;ESoccer_Battle;Juventus;lion;AC Milan;Arcos;0;4;A
+241;02/07;10:52;Manhã;ESoccer_Battle;Roma;Koftovsky;Inter;nikkitta;2;2;D
+242;02/07;10:40;Manhã;ESoccer_Battle;Napoli;Senior;Roma;Koftovsky;5;1;H
+243;02/07;10:40;Manhã;ESoccer_Battle;Inter;nikkitta;Juventus;lion;2;5;A
+244;02/07;10:38;Manhã;ESoccer_Battle;Netherlands;Rus_1995_LAN;Portugal;d1pseN;1;4;A
+245;02/07;10:38;Manhã;ESoccer_Battle;Argentina;lowheels;England;Wboy;2;3;A
+246;02/07;10:26;Manhã;ESoccer_Battle;England;Wboy;Germany;dm1trena;3;2;H
+247;02/07;10:26;Manhã;ESoccer_Battle;Portugal;d1pseN;Argentina;lowheels;3;1;H
+248;02/07;10:18;Manhã;ESoccer_Battle;Sevilla;nikkitta;Newcastle;Arcos;0;2;A
+249;02/07;10:18;Manhã;ESoccer_Battle;Galatasaray;Senior;AC Milan;lion;1;1;D
+250;02/07;10:14;Manhã;ESoccer_Battle;Germany;dm1trena;Portugal;d1pseN;1;3;A
+251;02/07;10:14;Manhã;ESoccer_Battle;Argentina;lowheels;Netherlands;Rus_1995_LAN;2;2;D
+252;02/07;10:06;Manhã;ESoccer_Battle;AC Milan;lion;Inter;Koftovsky;1;0;H
+253;02/07;10:06;Manhã;ESoccer_Battle;Newcastle;Arcos;Galatasaray;Senior;3;3;D
+254;02/07;10:02;Manhã;ESoccer_Battle;Portugal;d1pseN;England;Wboy;4;3;H
+255;02/07;10:02;Manhã;ESoccer_Battle;Netherlands;Rus_1995_LAN;Germany;dm1trena;2;3;A
+256;02/07;09:54;Manhã;ESoccer_Battle;Inter;Koftovsky;Newcastle;Arcos;2;2;D
+257;02/07;09:54;Manhã;ESoccer_Battle;Galatasaray;Senior;Sevilla;nikkitta;1;1;D
+258;02/07;09:50;Manhã;ESoccer_Battle;Germany;dm1trena;Argentina;lowheels;1;2;A
+259;02/07;09:50;Manhã;ESoccer_Battle;England;Wboy;Netherlands;Rus_1995_LAN;2;0;H
+260;02/07;09:42;Manhã;ESoccer_Battle;Newcastle;Arcos;AC Milan;lion;2;6;A
+261;02/07;09:42;Manhã;ESoccer_Battle;Sevilla;nikkitta;Inter;Koftovsky;0;2;A
+262;02/07;09:38;Manhã;ESoccer_Battle;Portugal;d1pseN;Netherlands;Rus_1995_LAN;3;4;A
+263;02/07;09:38;Manhã;ESoccer_Battle;England;Wboy;Argentina;lowheels;3;3;D
+264;02/07;09:30;Manhã;ESoccer_Battle;Inter;Koftovsky;Galatasaray;Senior;1;0;H
+265;02/07;09:30;Manhã;ESoccer_Battle;AC Milan;lion;Sevilla;nikkitta;4;0;H
+266;02/07;09:26;Manhã;ESoccer_Battle;Germany;dm1trena;England;Wboy;4;3;H
+267;02/07;09:26;Manhã;ESoccer_Battle;Argentina;lowheels;Portugal;d1pseN;3;2;H
+268;02/07;09:18;Manhã;ESoccer_Battle;Newcastle;Arcos;Sevilla;nikkitta;2;2;D
+269;02/07;09:18;Manhã;ESoccer_Battle;AC Milan;lion;Galatasaray;Senior;2;1;H
+270;02/07;09:14;Manhã;ESoccer_Battle;Portugal;d1pseN;Germany;dm1trena;5;3;H
+271;02/07;09:06;Manhã;ESoccer_Battle;Inter;Koftovsky;AC Milan;lion;2;6;A
+272;02/07;09:06;Manhã;ESoccer_Battle;Galatasaray;Senior;Newcastle;Arcos;4;1;H
+273;02/07;09:02;Manhã;ESoccer_Battle;England;Wboy;Portugal;d1pseN;2;2;D
+274;02/07;09:02;Manhã;ESoccer_Battle;Germany;dm1trena;Netherlands;Rus_1995_LAN;0;4;A
+275;02/07;08:54;Manhã;ESoccer_Battle;Sevilla;nikkitta;Galatasaray;Senior;1;2;A
+276;02/07;08:54;Manhã;ESoccer_Battle;Newcastle;Arcos;Inter;Koftovsky;1;2;A
+277;02/07;08:50;Manhã;ESoccer_Battle;Argentina;lowheels;Germany;dm1trena;1;3;A
+278;02/07;08:50;Manhã;ESoccer_Battle;Netherlands;Rus_1995_LAN;England;Wboy;2;4;A
+279;02/07;08:42;Manhã;ESoccer_Battle;AC Milan;lion;Newcastle;Arcos;2;2;D
+280;02/07;08:42;Manhã;ESoccer_Battle;Inter;Koftovsky;Sevilla;nikkitta;4;1;H
+281;02/07;08:30;Manhã;ESoccer_Battle;Galatasaray;Senior;Inter;Koftovsky;4;2;H
+282;02/07;08:30;Manhã;ESoccer_Battle;Sevilla;nikkitta;AC Milan;lion;0;2;A
+283;02/07;08:18;Manhã;ESoccer_Battle;Galatasaray;Rus_1995_LAN;Newcastle;d1pseN;2;2;D
+284;02/07;08:18;Manhã;ESoccer_Battle;Sevilla;lowheels;Inter;Wboy;2;2;D
+285;02/07;08:06;Manhã;ESoccer_Battle;Inter;Wboy;AC Milan;dm1trena;1;3;A
+286;02/07;08:06;Manhã;ESoccer_Battle;Newcastle;d1pseN;Sevilla;lowheels;1;1;D
+287;02/07;07:58;Manhã;ESoccer_Battle;A.Madrid;nikkitta;Man Utd;Arcos;1;0;H
+288;02/07;07:58;Manhã;ESoccer_Battle;Arsenal;Senior;Napoli;lion;3;3;D
+289;02/07;07:54;Manhã;ESoccer_Battle;AC Milan;dm1trena;Newcastle;d1pseN;3;1;H
+290;02/07;07:54;Manhã;ESoccer_Battle;Sevilla;lowheels;Galatasaray;Rus_1995_LAN;2;0;H
+291;02/07;07:46;Manhã;ESoccer_Battle;Napoli;lion;Dortmund;Koftovsky;1;0;H
+292;02/07;07:46;Manhã;ESoccer_Battle;Man Utd;Arcos;Arsenal;Senior;1;3;A
+293;02/07;07:42;Manhã;ESoccer_Battle;Galatasaray;Rus_1995_LAN;AC Milan;dm1trena;0;0;D
+294;02/07;07:42;Manhã;ESoccer_Battle;Newcastle;d1pseN;Inter;Wboy;4;4;D
+295;02/07;07:34;Manhã;ESoccer_Battle;Dortmund;Koftovsky;Man Utd;Arcos;3;2;H
+296;02/07;07:34;Manhã;ESoccer_Battle;Arsenal;Senior;A.Madrid;nikkitta;2;0;H
+297;02/07;07:30;Manhã;ESoccer_Battle;Inter;Wboy;Galatasaray;Rus_1995_LAN;2;3;A
+298;02/07;07:30;Manhã;ESoccer_Battle;AC Milan;dm1trena;Sevilla;lowheels;4;0;H
+299;02/07;07:22;Manhã;ESoccer_Battle;Man Utd;Arcos;Napoli;lion;3;2;H
+300;02/07;07:22;Manhã;ESoccer_Battle;A.Madrid;nikkitta;Dortmund;Koftovsky;2;2;D
+301;02/07;07:18;Manhã;ESoccer_Battle;Newcastle;d1pseN;Galatasaray;Rus_1995_LAN;2;1;H
+302;02/07;07:18;Manhã;ESoccer_Battle;Inter;Wboy;Sevilla;lowheels;3;2;H
+303;02/07;07:10;Manhã;ESoccer_Battle;Dortmund;Koftovsky;Arsenal;Senior;2;1;H
+304;02/07;07:10;Manhã;ESoccer_Battle;Napoli;lion;A.Madrid;nikkitta;2;2;D
+305;02/07;07:06;Manhã;ESoccer_Battle;AC Milan;dm1trena;Inter;Wboy;2;3;A
+306;02/07;07:06;Manhã;ESoccer_Battle;Sevilla;lowheels;Newcastle;d1pseN;0;2;A
+307;02/07;06:58;Manhã;ESoccer_Battle;Man Utd;Arcos;A.Madrid;nikkitta;2;2;D
+308;02/07;06:58;Manhã;ESoccer_Battle;Napoli;lion;Arsenal;Senior;6;3;H
+309;02/07;06:54;Manhã;ESoccer_Battle;Newcastle;d1pseN;AC Milan;dm1trena;1;1;D
+310;02/07;06:46;Manhã;ESoccer_Battle;Dortmund;Koftovsky;Napoli;lion;2;1;H
+311;02/07;06:46;Manhã;ESoccer_Battle;Arsenal;Senior;Man Utd;Arcos;3;1;H
+312;02/07;06:42;Manhã;ESoccer_Battle;Inter;Wboy;Newcastle;d1pseN;2;2;D
+313;02/07;06:34;Manhã;ESoccer_Battle;A.Madrid;nikkitta;Arsenal;Senior;1;0;H
+314;02/07;06:34;Manhã;ESoccer_Battle;Man Utd;Arcos;Dortmund;Koftovsky;2;4;A
+315;02/07;06:30;Manhã;ESoccer_Battle;Sevilla;lowheels;AC Milan;dm1trena;1;1;D
+316;02/07;06:22;Manhã;ESoccer_Battle;Napoli;lion;Man Utd;Arcos;0;1;A
+317;02/07;06:22;Manhã;ESoccer_Battle;Dortmund;Koftovsky;A.Madrid;nikkitta;1;0;H
+318;02/07;06:10;Manhã;ESoccer_Battle;Arsenal;Senior;Dortmund;Koftovsky;3;3;D
+319;02/07;06:10;Manhã;ESoccer_Battle;A.Madrid;nikkitta;Napoli;lion;1;0;H
+320;02/07;06:08;Manhã;ESoccer_Battle;Man City;lowheels;Tottenham;Wboy;2;2;D
+321;02/07;05:56;Madrugada;ESoccer_Battle;Tottenham;Wboy;Arsenal;dm1trena;2;1;H
+322;02/07;05:48;Madrugada;ESoccer_Battle;Germany;nikkitta;Argentina;Arcos;1;0;H
+323;02/07;05:20;Madrugada;ESoccer_Battle;Arsenal;dm1trena;Man City;lowheels;3;6;A
+324;02/07;05:08;Madrugada;ESoccer_Battle;Tottenham;Wboy;Man City;lowheels;3;3;D
+325;02/07;04:56;Madrugada;ESoccer_Battle;Arsenal;dm1trena;Tottenham;Wboy;2;2;D
+326;02/07;04:48;Madrugada;ESoccer_Battle;Argentina;Arcos;Germany;nikkitta;1;0;H
+327;02/07;04:20;Madrugada;ESoccer_Battle;Man City;lowheels;Arsenal;dm1trena;3;3;D
+328;02/07;03:58;Madrugada;ESoccer_Battle;Man Utd;Inquisitor;Tottenham;Kodak;3;1;H
+329;02/07;03:58;Madrugada;ESoccer_Battle;Arsenal;LaikingDast;Liverpool;MeLToSik;1;3;A
+330;02/07;03:48;Madrugada;ESoccer_Battle;Bayern;Petruchio;PSG;Zzakki;3;5;A
+331;02/07;03:48;Madrugada;ESoccer_Battle;Man City;palkan;Real Madrid;Apenko_17;2;5;A
+332;02/07;03:46;Madrugada;ESoccer_Battle;Tottenham;Kodak;Arsenal;LaikingDast;3;1;H
+333;02/07;03:46;Madrugada;ESoccer_Battle;Liverpool;MeLToSik;Man City;Boulevard;5;3;H
+334;02/07;03:36;Madrugada;ESoccer_Battle;PSG;Zzakki;Man City;palkan;3;4;A
+335;02/07;03:36;Madrugada;ESoccer_Battle;Real Madrid;Apenko_17;Barcelona;Galikooo;2;3;A
+336;02/07;03:34;Madrugada;ESoccer_Battle;Man City;Boulevard;Tottenham;Kodak;2;1;H
+337;02/07;03:34;Madrugada;ESoccer_Battle;Arsenal;LaikingDast;Man Utd;Inquisitor;5;2;H
+338;02/07;03:24;Madrugada;ESoccer_Battle;Man City;palkan;Bayern;Petruchio;3;3;D
+339;02/07;03:24;Madrugada;ESoccer_Battle;Barcelona;Galikooo;PSG;Zzakki;1;1;D
+340;02/07;03:22;Madrugada;ESoccer_Battle;Tottenham;Kodak;Liverpool;MeLToSik;2;1;H
+341;02/07;03:22;Madrugada;ESoccer_Battle;Man Utd;Inquisitor;Man City;Boulevard;2;3;A
+342;02/07;03:12;Madrugada;ESoccer_Battle;PSG;Zzakki;Real Madrid;Apenko_17;1;0;H
+343;02/07;03:12;Madrugada;ESoccer_Battle;Bayern;Petruchio;Barcelona;Galikooo;3;1;H
+344;02/07;03:10;Madrugada;ESoccer_Battle;Liverpool;MeLToSik;Man Utd;Inquisitor;0;2;A
+345;02/07;03:10;Madrugada;ESoccer_Battle;Man City;Boulevard;Arsenal;LaikingDast;2;1;H
+346;02/07;03:00;Madrugada;ESoccer_Battle;Real Madrid;Apenko_17;Bayern;Petruchio;2;1;H
+347;02/07;03:00;Madrugada;ESoccer_Battle;Barcelona;Galikooo;Man City;palkan;3;2;H
+348;02/07;02:58;Madrugada;ESoccer_Battle;Tottenham;Kodak;Man Utd;Inquisitor;4;3;H
+349;02/07;02:58;Madrugada;ESoccer_Battle;Liverpool;MeLToSik;Arsenal;LaikingDast;2;0;H
+350;02/07;02:48;Madrugada;ESoccer_Battle;PSG;Zzakki;Bayern;Petruchio;1;1;D
+351;02/07;02:48;Madrugada;ESoccer_Battle;Real Madrid;Apenko_17;Man City;palkan;5;3;H
+352;02/07;02:46;Madrugada;ESoccer_Battle;Arsenal;LaikingDast;Tottenham;Kodak;1;4;A
+353;02/07;02:46;Madrugada;ESoccer_Battle;Man City;Boulevard;Liverpool;MeLToSik;2;4;A
+354;02/07;02:36;Madrugada;ESoccer_Battle;Man City;palkan;PSG;Zzakki;0;3;A
+355;02/07;02:36;Madrugada;ESoccer_Battle;Barcelona;Galikooo;Real Madrid;Apenko_17;0;3;A
+356;02/07;02:34;Madrugada;ESoccer_Battle;Tottenham;Kodak;Man City;Boulevard;0;3;A
+357;02/07;02:34;Madrugada;ESoccer_Battle;Man Utd;Inquisitor;Arsenal;LaikingDast;0;3;A
+358;02/07;02:24;Madrugada;ESoccer_Battle;Bayern;Petruchio;Man City;palkan;4;3;H
+359;02/07;02:24;Madrugada;ESoccer_Battle;PSG;Zzakki;Barcelona;Galikooo;4;1;H
+360;02/07;02:22;Madrugada;ESoccer_Battle;Liverpool;MeLToSik;Tottenham;Kodak;1;2;A
+361;02/07;02:22;Madrugada;ESoccer_Battle;Man City;Boulevard;Man Utd;Inquisitor;6;2;H
+362;02/07;02:12;Madrugada;ESoccer_Battle;Barcelona;Galikooo;Bayern;Petruchio;4;3;H
+363;02/07;02:12;Madrugada;ESoccer_Battle;Real Madrid;Apenko_17;PSG;Zzakki;1;2;A
+364;02/07;02:10;Madrugada;ESoccer_Battle;Arsenal;LaikingDast;Man City;Boulevard;3;3;D
+365;02/07;02:10;Madrugada;ESoccer_Battle;Man Utd;Inquisitor;Liverpool;MeLToSik;0;3;A
+366;02/07;02:00;Madrugada;ESoccer_Battle;Bayern;Petruchio;Real Madrid;Apenko_17;2;3;A
+367;02/07;01:48;Madrugada;ESoccer_Battle;Portugal;Inquisitor;France;Kodak;2;0;H
+368;02/07;01:48;Madrugada;ESoccer_Battle;Argentina;LaikingDast;England;MeLToSik;0;2;A
+369;02/07;01:36;Madrugada;ESoccer_Battle;France;Kodak;Argentina;LaikingDast;6;2;H
+370;02/07;01:36;Madrugada;ESoccer_Battle;England;MeLToSik;Germany;Boulevard;4;0;H
+371;02/07;01:28;Madrugada;ESoccer_Battle;Bayer 04;palkan;Wolfsburg;Apenko_17;1;4;A
+372;02/07;01:28;Madrugada;ESoccer_Battle;RB Leipzig;Petruchio;Eintracht;Zzakki;4;1;H
+373;02/07;01:24;Madrugada;ESoccer_Battle;Germany;Boulevard;France;Kodak;2;0;H
+374;02/07;01:24;Madrugada;ESoccer_Battle;Argentina;LaikingDast;Portugal;Inquisitor;2;2;D
+375;02/07;01:16;Madrugada;ESoccer_Battle;Wolfsburg;Apenko_17;Dortmund;Galikooo;5;1;H
+376;02/07;01:16;Madrugada;ESoccer_Battle;Eintracht;Zzakki;Bayer 04;palkan;0;3;A
+377;02/07;01:12;Madrugada;ESoccer_Battle;Portugal;Inquisitor;Germany;Boulevard;0;0;D
+378;02/07;01:12;Madrugada;ESoccer_Battle;France;Kodak;England;MeLToSik;2;2;D
+379;02/07;01:04;Madrugada;ESoccer_Battle;Bayer 04;palkan;RB Leipzig;Petruchio;4;0;H
+380;02/07;01:04;Madrugada;ESoccer_Battle;Dortmund;Galikooo;Eintracht;Zzakki;2;1;H
+381;02/07;01:00;Madrugada;ESoccer_Battle;Germany;Boulevard;Argentina;LaikingDast;1;0;H
+382;02/07;00:52;Madrugada;ESoccer_Battle;RB Leipzig;Petruchio;Dortmund;Galikooo;1;1;D
+383;02/07;00:52;Madrugada;ESoccer_Battle;Eintracht;Zzakki;Wolfsburg;Apenko_17;1;1;D
+384;02/07;00:48;Madrugada;ESoccer_Battle;England;MeLToSik;Argentina;LaikingDast;1;0;H
+385;02/07;00:40;Madrugada;ESoccer_Battle;Wolfsburg;Apenko_17;RB Leipzig;Petruchio;1;3;A
+386;02/07;00:36;Madrugada;ESoccer_Battle;Argentina;LaikingDast;France;Kodak;3;0;H
+387;02/07;00:36;Madrugada;ESoccer_Battle;Germany;Boulevard;England;MeLToSik;4;3;H
+388;02/07;00:28;Madrugada;ESoccer_Battle;Wolfsburg;Apenko_17;Bayer 04;palkan;3;3;D
+389;02/07;00:28;Madrugada;ESoccer_Battle;Eintracht;Zzakki;RB Leipzig;Petruchio;2;2;D
+390;02/07;00:24;Madrugada;ESoccer_Battle;France;Kodak;Germany;Boulevard;2;3;A
+391;02/07;00:24;Madrugada;ESoccer_Battle;Portugal;Inquisitor;Argentina;LaikingDast;3;1;H
+392;02/07;00:16;Madrugada;ESoccer_Battle;Bayer 04;palkan;Eintracht;Zzakki;1;1;D
+393;02/07;00:16;Madrugada;ESoccer_Battle;Dortmund;Galikooo;Wolfsburg;Apenko_17;2;1;H
+394;02/07;00:12;Madrugada;ESoccer_Battle;England;MeLToSik;France;Kodak;1;3;A
+395;02/07;00:12;Madrugada;ESoccer_Battle;Germany;Boulevard;Portugal;Inquisitor;3;4;A
+396;02/07;00:04;Madrugada;ESoccer_Battle;Eintracht;Zzakki;Dortmund;Galikooo;1;1;D
+397;02/07;00:04;Madrugada;ESoccer_Battle;RB Leipzig;Petruchio;Bayer 04;palkan;1;3;A
+398;02/07;00:00;Madrugada;ESoccer_Battle;Argentina;LaikingDast;Germany;Boulevard;1;2;A
+399;02/06;23:52;Noite;ESoccer_Battle;Wolfsburg;Apenko_17;Eintracht;Zzakki;1;1;D
+400;02/06;23:52;Noite;ESoccer_Battle;Dortmund;Galikooo;RB Leipzig;Petruchio;3;2;H
+401;02/06;23:40;Noite;ESoccer_Battle;RB Leipzig;Petruchio;Wolfsburg;Apenko_17;3;6;A
+402;02/06;23:40;Noite;ESoccer_Battle;Bayer 04;palkan;Dortmund;Galikooo;1;1;D
+403;02/06;23:28;Noite;ESoccer_Battle;Napoli;Inquisitor;Dortmund;Kodak;3;4;A
+404;02/06;23:18;Noite;ESoccer_Battle;AC Milan;palkan;Roma;Apenko_17;2;3;A
+405;02/06;23:18;Noite;ESoccer_Battle;Juventus;Petruchio;Inter;Zzakki;1;0;H
+406;02/06;23:16;Noite;ESoccer_Battle;Dortmund;Kodak;Man Utd;LaikingDast;1;0;H
+407;02/06;23:06;Noite;ESoccer_Battle;Inter;Zzakki;AC Milan;palkan;2;2;D
+408;02/06;23:06;Noite;ESoccer_Battle;Roma;Apenko_17;Napoli;Galikooo;4;1;H
+409;02/06;23:04;Noite;ESoccer_Battle;A.Madrid;Boulevard;Dortmund;Kodak;2;2;D
+410;02/06;23:04;Noite;ESoccer_Battle;Man Utd;LaikingDast;Napoli;Inquisitor;1;3;A
+411;02/06;22:54;Noite;ESoccer_Battle;AC Milan;palkan;Juventus;Petruchio;3;0;H
+412;02/06;22:54;Noite;ESoccer_Battle;Napoli;Galikooo;Inter;Zzakki;2;1;H
+413;02/06;22:52;Noite;ESoccer_Battle;Dortmund;Kodak;Arsenal;MeLToSik;2;1;H
+414;02/06;22:52;Noite;ESoccer_Battle;Napoli;Inquisitor;A.Madrid;Boulevard;0;3;A
+415;02/06;22:42;Noite;ESoccer_Battle;Juventus;Petruchio;Napoli;Galikooo;1;2;A
+416;02/06;22:42;Noite;ESoccer_Battle;Inter;Zzakki;Roma;Apenko_17;3;2;H
+417;02/06;22:40;Noite;ESoccer_Battle;Arsenal;MeLToSik;Napoli;Inquisitor;1;2;A
+418;02/06;22:30;Noite;ESoccer_Battle;Napoli;Galikooo;AC Milan;palkan;3;3;D
+419;02/06;22:30;Noite;ESoccer_Battle;Roma;Apenko_17;Juventus;Petruchio;1;0;H
+420;02/06;22:28;Noite;ESoccer_Battle;Arsenal;MeLToSik;Man Utd;LaikingDast;1;2;A
+421;02/06;22:18;Noite;ESoccer_Battle;Inter;Zzakki;Juventus;Petruchio;3;1;H
+422;02/06;22:18;Noite;ESoccer_Battle;Roma;Apenko_17;AC Milan;palkan;3;3;D
+423;02/06;22:16;Noite;ESoccer_Battle;Man Utd;LaikingDast;Dortmund;Kodak;1;1;D
+424;02/06;22:16;Noite;ESoccer_Battle;A.Madrid;Boulevard;Arsenal;MeLToSik;3;3;D
+425;02/06;22:06;Noite;ESoccer_Battle;Napoli;Galikooo;Roma;Apenko_17;0;2;A
+426;02/06;22:06;Noite;ESoccer_Battle;AC Milan;palkan;Inter;Zzakki;2;2;D
+427;02/06;22:04;Noite;ESoccer_Battle;Dortmund;Kodak;A.Madrid;Boulevard;2;1;H
+428;02/06;22:04;Noite;ESoccer_Battle;Napoli;Inquisitor;Man Utd;LaikingDast;4;2;H
+429;02/06;21:54;Noite;ESoccer_Battle;Juventus;Petruchio;AC Milan;palkan;3;1;H
+430;02/06;21:54;Noite;ESoccer_Battle;Inter;Zzakki;Napoli;Galikooo;3;1;H
+431;02/06;21:52;Noite;ESoccer_Battle;Arsenal;MeLToSik;Dortmund;Kodak;2;1;H
+432;02/06;21:52;Noite;ESoccer_Battle;A.Madrid;Boulevard;Napoli;Inquisitor;4;4;D
+433;02/06;21:42;Noite;ESoccer_Battle;Roma;Apenko_17;Inter;Zzakki;1;0;H
+434;02/06;21:42;Noite;ESoccer_Battle;Napoli;Galikooo;Juventus;Petruchio;2;0;H
+435;02/06;21:40;Noite;ESoccer_Battle;Napoli;Inquisitor;Arsenal;MeLToSik;1;2;A
+436;02/06;21:40;Noite;ESoccer_Battle;Man Utd;LaikingDast;A.Madrid;Boulevard;3;1;H
+437;02/06;21:30;Noite;ESoccer_Battle;AC Milan;palkan;Napoli;Galikooo;3;1;H
+438;02/06;21:18;Noite;ESoccer_Battle;Real Madrid;LaikingDast;Barcelona;MeLToSik;0;0;D
+439;02/06;21:08;Noite;ESoccer_Battle;Portugal;Petruchio;Argentina;Zzakki;3;3;D
+440;02/06;21:08;Noite;ESoccer_Battle;Netherlands;palkan;Germany;Apenko_17;4;2;H
+441;02/06;21:06;Noite;ESoccer_Battle;PSG;Kodak;Real Madrid;LaikingDast;3;0;H
+442;02/06;21:06;Noite;ESoccer_Battle;Barcelona;MeLToSik;Bayern;Boulevard;1;3;A
+443;02/06;20:56;Noite;ESoccer_Battle;Argentina;Zzakki;Netherlands;palkan;2;0;H
+444;02/06;20:56;Noite;ESoccer_Battle;Germany;Apenko_17;England;Galikooo;0;1;A
+445;02/06;20:54;Noite;ESoccer_Battle;Real Madrid;LaikingDast;Man City;Inquisitor;2;1;H
+446;02/06;20:54;Noite;ESoccer_Battle;Bayern;Boulevard;PSG;Kodak;4;4;D
+447;02/06;20:44;Noite;ESoccer_Battle;England;Galikooo;Argentina;Zzakki;1;4;A
+448;02/06;20:44;Noite;ESoccer_Battle;Netherlands;palkan;Portugal;Petruchio;2;1;H
+449;02/06;20:42;Noite;ESoccer_Battle;PSG;Kodak;Barcelona;MeLToSik;1;2;A
+450;02/06;20:42;Noite;ESoccer_Battle;Man City;Inquisitor;Bayern;Boulevard;3;1;H
+451;02/06;20:32;Noite;ESoccer_Battle;Portugal;Petruchio;England;Galikooo;0;1;A
+452;02/06;20:32;Noite;ESoccer_Battle;Argentina;Zzakki;Germany;Apenko_17;0;0;D
+453;02/06;20:30;Noite;ESoccer_Battle;Bayern;Boulevard;Real Madrid;LaikingDast;2;1;H
+454;02/06;20:30;Noite;ESoccer_Battle;Barcelona;MeLToSik;Man City;Inquisitor;3;3;D
+455;02/06;20:20;Noite;ESoccer_Battle;England;Galikooo;Netherlands;palkan;2;1;H
+456;02/06;20:20;Noite;ESoccer_Battle;Germany;Apenko_17;Portugal;Petruchio;2;0;H
+457;02/06;20:18;Noite;ESoccer_Battle;PSG;Kodak;Man City;Inquisitor;4;3;H
+458;02/06;20:18;Noite;ESoccer_Battle;Barcelona;MeLToSik;Real Madrid;LaikingDast;2;3;A
+459;02/06;20:08;Noite;ESoccer_Battle;Argentina;Zzakki;Portugal;Petruchio;0;0;D
+460;02/06;20:08;Noite;ESoccer_Battle;Germany;Apenko_17;Netherlands;palkan;0;4;A
+461;02/06;20:06;Noite;ESoccer_Battle;Bayern;Boulevard;Barcelona;MeLToSik;4;2;H
+462;02/06;20:06;Noite;ESoccer_Battle;Real Madrid;LaikingDast;PSG;Kodak;2;4;A
+463;02/06;19:56;Noite;ESoccer_Battle;Netherlands;palkan;Argentina;Zzakki;1;2;A
+464;02/06;19:56;Noite;ESoccer_Battle;England;Galikooo;Germany;Apenko_17;5;2;H
+465;02/06;19:54;Noite;ESoccer_Battle;PSG;Kodak;Bayern;Boulevard;2;2;D
+466;02/06;19:54;Noite;ESoccer_Battle;Man City;Inquisitor;Real Madrid;LaikingDast;1;1;D
+467;02/06;19:44;Noite;ESoccer_Battle;Argentina;Zzakki;England;Galikooo;2;2;D
+468;02/06;19:44;Noite;ESoccer_Battle;Portugal;Petruchio;Netherlands;palkan;2;3;A
+469;02/06;19:42;Noite;ESoccer_Battle;Barcelona;MeLToSik;PSG;Kodak;1;1;D
+470;02/06;19:42;Noite;ESoccer_Battle;Bayern;Boulevard;Man City;Inquisitor;3;2;H
+471;02/06;19:32;Noite;ESoccer_Battle;England;Galikooo;Portugal;Petruchio;5;1;H
+472;02/06;19:32;Noite;ESoccer_Battle;Germany;Apenko_17;Argentina;Zzakki;4;4;D
+473;02/06;19:30;Noite;ESoccer_Battle;Man City;Inquisitor;Barcelona;MeLToSik;4;0;H
+474;02/06;19:30;Noite;ESoccer_Battle;Real Madrid;LaikingDast;Bayern;Boulevard;2;2;D
+475;02/06;19:20;Noite;ESoccer_Battle;Netherlands;palkan;England;Galikooo;3;2;H
+476;02/06;19:20;Noite;ESoccer_Battle;Portugal;Petruchio;Germany;Apenko_17;1;1;D
+477;02/06;19:18;Noite;ESoccer_Battle;Portugal;Nicolas_Rage;England;Buconi;1;1;D
+478;02/06;19:18;Noite;ESoccer_Battle;Argentina;MakcwellLm;France;Elmagico;1;3;A
+479;02/06;19:06;Noite;ESoccer_Battle;France;Elmagico;Germany;Kallu;1;1;D
+480;02/06;19:06;Noite;ESoccer_Battle;England;Buconi;Argentina;MakcwellLm;4;1;H
+481;02/06;18:58;Noite;ESoccer_Battle;Liverpool;Zyen;Man Utd;Jekos;3;0;H
+482;02/06;18:58;Noite;ESoccer_Battle;Arsenal;Hermanito;Man City;Rodja;0;2;A
+483;02/06;18:54;Noite;ESoccer_Battle;Germany;Kallu;England;Buconi;1;2;A
+484;02/06;18:54;Noite;ESoccer_Battle;Argentina;MakcwellLm;Portugal;Nicolas_Rage;1;3;A
+485;02/06;18:46;Noite;ESoccer_Battle;Man Utd;Jekos;Tottenham;Peja;2;3;A
+486;02/06;18:42;Noite;ESoccer_Battle;England;Buconi;France;Elmagico;5;3;H
+487;02/06;18:42;Noite;ESoccer_Battle;Portugal;Nicolas_Rage;Germany;Kallu;1;1;D
+488;02/06;18:34;Noite;ESoccer_Battle;Liverpool;Zyen;Arsenal;Hermanito;3;1;H
+489;02/06;18:34;Noite;ESoccer_Battle;Tottenham;Peja;Man City;Rodja;1;0;H
+490;02/06;18:30;Noite;ESoccer_Battle;Germany;Kallu;Argentina;MakcwellLm;3;0;H
+491;02/06;18:30;Noite;ESoccer_Battle;France;Elmagico;Portugal;Nicolas_Rage;0;3;A
+492;02/06;18:22;Noite;ESoccer_Battle;Man City;Rodja;Man Utd;Jekos;3;1;H
+493;02/06;18:22;Noite;ESoccer_Battle;Arsenal;Hermanito;Tottenham;Peja;0;2;A
+494;02/06;18:18;Noite;ESoccer_Battle;England;Buconi;Portugal;Nicolas_Rage;2;1;H
+495;02/06;18:10;Noite;ESoccer_Battle;Man Utd;Jekos;Arsenal;Hermanito;2;3;A
+496;02/06;18:10;Noite;ESoccer_Battle;Tottenham;Peja;Liverpool;Zyen;1;2;A
+497;02/06;18:06;Noite;ESoccer_Battle;Argentina;MakcwellLm;England;Buconi;3;3;D
+498;02/06;17:58;Tarde;ESoccer_Battle;Man Utd;Jekos;Liverpool;Zyen;4;4;D
+499;02/06;17:58;Tarde;ESoccer_Battle;Man City;Rodja;Arsenal;Hermanito;1;1;D
+500;02/06;17:54;Tarde;ESoccer_Battle;England;Buconi;Germany;Kallu;0;2;A
+501;02/06;17:54;Tarde;ESoccer_Battle;Portugal;Nicolas_Rage;Argentina;MakcwellLm;2;0;H
+502;02/06;17:46;Tarde;ESoccer_Battle;Tottenham;Peja;Man Utd;Jekos;2;0;H
+503;02/06;17:46;Tarde;ESoccer_Battle;Liverpool;Zyen;Man City;Rodja;1;5;A
+504;02/06;17:42;Tarde;ESoccer_Battle;Germany;Kallu;Portugal;Nicolas_Rage;3;0;H
+505;02/06;17:42;Tarde;ESoccer_Battle;France;Elmagico;England;Buconi;0;2;A
+506;02/06;17:34;Tarde;ESoccer_Battle;Arsenal;Hermanito;Liverpool;Zyen;2;2;D
+507;02/06;17:34;Tarde;ESoccer_Battle;Man City;Rodja;Tottenham;Peja;2;1;H
+508;02/06;17:30;Tarde;ESoccer_Battle;Argentina;MakcwellLm;Germany;Kallu;2;1;H
+509;02/06;17:30;Tarde;ESoccer_Battle;Portugal;Nicolas_Rage;France;Elmagico;1;3;A
+510;02/06;17:22;Tarde;ESoccer_Battle;Man Utd;Jekos;Man City;Rodja;1;1;D
+511;02/06;17:22;Tarde;ESoccer_Battle;Tottenham;Peja;Arsenal;Hermanito;5;5;D
+512;02/06;17:10;Tarde;ESoccer_Battle;Arsenal;Hermanito;Man Utd;Jekos;4;0;H
+513;02/06;17:10;Tarde;ESoccer_Battle;Liverpool;Zyen;Tottenham;Peja;1;1;D
+514;02/06;16:58;Tarde;ESoccer_Battle;Chelsea;MakcwellLm;Brighton;Elmagico;3;1;H
+515;02/06;16:58;Tarde;ESoccer_Battle;West Ham;Nicolas_Rage;Newcastle;Buconi;1;1;D
+516;02/06;16:46;Tarde;ESoccer_Battle;Newcastle;Buconi;Chelsea;MakcwellLm;2;1;H
+517;02/06;16:46;Tarde;ESoccer_Battle;Brighton;Elmagico;Aston Villa;Kallu;3;3;D
+518;02/06;16:38;Tarde;ESoccer_Battle;Villarreal;Zyen;West Ham;Jekos;1;1;D
+519;02/06;16:38;Tarde;ESoccer_Battle;Roma;Hermanito;Marseille;Rodja;2;2;D
+520;02/06;16:34;Tarde;ESoccer_Battle;Chelsea;MakcwellLm;West Ham;Nicolas_Rage;3;2;H
+521;02/06;16:34;Tarde;ESoccer_Battle;Aston Villa;Kallu;Newcastle;Buconi;3;4;A
+522;02/06;16:26;Tarde;ESoccer_Battle;West Ham;Jekos;Bayer 04;Peja;2;3;A
+523;02/06;16:26;Tarde;ESoccer_Battle;Marseille;Rodja;Villarreal;Zyen;1;3;A
+524;02/06;16:22;Tarde;ESoccer_Battle;West Ham;Nicolas_Rage;Aston Villa;Kallu;1;1;D
+525;02/06;16:22;Tarde;ESoccer_Battle;Newcastle;Buconi;Brighton;Elmagico;4;5;A
+526;02/06;16:14;Tarde;ESoccer_Battle;Villarreal;Zyen;Roma;Hermanito;1;2;A
+527;02/06;16:14;Tarde;ESoccer_Battle;Bayer 04;Peja;Marseille;Rodja;3;1;H
+528;02/06;16:10;Tarde;ESoccer_Battle;Aston Villa;Kallu;Chelsea;MakcwellLm;1;3;A
+529;02/06;16:10;Tarde;ESoccer_Battle;Brighton;Elmagico;West Ham;Nicolas_Rage;1;1;D
+530;02/06;16:02;Tarde;ESoccer_Battle;Marseille;Rodja;West Ham;Jekos;1;0;H
+531;02/06;16:02;Tarde;ESoccer_Battle;Roma;Hermanito;Bayer 04;Peja;2;2;D
+532;02/06;15:58;Tarde;ESoccer_Battle;Brighton;Elmagico;Chelsea;MakcwellLm;2;4;A
+533;02/06;15:58;Tarde;ESoccer_Battle;Newcastle;Buconi;West Ham;Nicolas_Rage;2;2;D
+534;02/06;15:50;Tarde;ESoccer_Battle;West Ham;Jekos;Roma;Hermanito;1;0;H
+535;02/06;15:46;Tarde;ESoccer_Battle;Aston Villa;Kallu;Brighton;Elmagico;0;1;A
+536;02/06;15:46;Tarde;ESoccer_Battle;Chelsea;MakcwellLm;Newcastle;Buconi;1;2;A
+537;02/06;15:38;Tarde;ESoccer_Battle;Marseille;Rodja;Roma;Hermanito;3;4;A
+538;02/06;15:34;Tarde;ESoccer_Battle;Newcastle;Buconi;Aston Villa;Kallu;2;3;A
+539;02/06;15:34;Tarde;ESoccer_Battle;West Ham;Nicolas_Rage;Chelsea;MakcwellLm;2;2;D
+540;02/06;15:26;Tarde;ESoccer_Battle;Bayer 04;Peja;West Ham;Jekos;2;1;H
+541;02/06;15:26;Tarde;ESoccer_Battle;Villarreal;Zyen;Marseille;Rodja;2;1;H
+542;02/06;15:22;Tarde;ESoccer_Battle;Brighton;Elmagico;Newcastle;Buconi;1;3;A
+543;02/06;15:22;Tarde;ESoccer_Battle;Aston Villa;Kallu;West Ham;Nicolas_Rage;2;2;D
+544;02/06;15:14;Tarde;ESoccer_Battle;Marseille;Rodja;Bayer 04;Peja;3;2;H
+545;02/06;15:14;Tarde;ESoccer_Battle;Roma;Hermanito;Villarreal;Zyen;3;1;H
+546;02/06;15:10;Tarde;ESoccer_Battle;West Ham;Nicolas_Rage;Brighton;Elmagico;0;3;A
+547;02/06;15:10;Tarde;ESoccer_Battle;Chelsea;MakcwellLm;Aston Villa;Kallu;1;2;A
+548;02/06;15:02;Tarde;ESoccer_Battle;West Ham;Jekos;Marseille;Rodja;2;1;H

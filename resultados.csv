@@ -1,0 +1,575 @@
+Nº;Date;Time;Shift;League;HomeTeam;HomePlayer;AwayTeam;AwayPlayer;golsHome;golsAway;FTR
+1;02/07;23:45;Noite;GT Leagues;Villarreal;Tongpo;Benfica;Ivan;3;0;H
+2;02/07;23:30;Noite;GT Leagues;West Ham;Goliath;Marseille;Hakan;3;3;D
+3;02/07;23:30;Noite;GT Leagues;Villarreal;Tongpo;AC Milan;Carlos;4;2;H
+4;02/07;23:15;Noite;GT Leagues;Marseille;Hakan;Benfica;Ivan;0;1;A
+5;02/07;23:15;Noite;GT Leagues;West Ham;Goliath;AC Milan;Carlos;1;3;A
+6;02/07;23:00;Noite;GT Leagues;Dortmund;Carlos;Copenhagen;Ivan;5;1;H
+7;02/07;23:00;Noite;GT Leagues;Barcelona;Goliath;Arsenal;TongPo;6;2;H
+8;02/07;23:00;Noite;GT Leagues;Dortmund;Carlos;Copenhagen;Ivan;5;1;H
+9;02/07;22:45;Noite;GT Leagues;Lazio;Hakan;Arsenal;TongPo;1;6;A
+10;02/07;22:45;Noite;GT Leagues;Barcelona;Goliath;Copenhagen;Ivan;1;6;A
+11;02/07;22:30;Noite;GT Leagues;Lazio;Hakan;Dortmund;Carlos;0;2;A
+12;02/07;22:30;Noite;GT Leagues;Copenhagen;Ivan;Arsenal;TongPo;1;1;D
+13;02/07;22:15;Noite;GT Leagues;Lazio;Hakan;Barcelona;Goliath;4;1;H
+14;02/07;22:15;Noite;GT Leagues;Dortmund;Carlos;Arsenal;TongPo;6;2;H
+15;02/07;22:00;Noite;GT Leagues;Dortmund;Carlos;Barcelona;Goliath;5;5;D
+16;02/07;21:30;Noite;GT Leagues;Copenhagen;Ivan;Dortmund;Carlos;3;4;A
+17;02/07;21:30;Noite;GT Leagues;Arsenal;TongPo;Barcelona;Goliath;4;4;D
+18;02/07;21:15;Noite;GT Leagues;Arsenal;TongPo;Lazio;Hakan;4;2;H
+19;02/07;21:15;Noite;GT Leagues;Copenhagen;Ivan;Barcelona;Goliath;2;4;A
+20;02/07;21:00;Noite;GT Leagues;Dortmund;Carlos;Lazio;Hakan;4;3;H
+21;02/07;21:00;Noite;GT Leagues;Arsenal;TongPo;Copenhagen;Ivan;2;5;A
+22;02/07;20:45;Noite;GT Leagues;Barcelona;Goliath;Lazio;Hakan;3;2;H
+23;02/07;20:45;Noite;GT Leagues;Arsenal;TongPo;Dortmund;Carlos;1;4;A
+24;02/07;20:30;Noite;GT Leagues;SC Freiburg;Furious;Galatasaray;Mosquito;3;3;D
+25;02/07;20:30;Noite;GT Leagues;Barcelona;Goliath;Dortmund;Carlos;2;6;A
+26;02/07;20:15;Noite;GT Leagues;Rangers;Socrates;Galatasaray;Mosquito;3;1;H
+27;02/07;20:15;Noite;GT Leagues;SC Freiburg;Furious;Roma;Saigon;3;0;H
+28;02/07;20:15;Noite;GT Leagues;Inter;Carlos;Napoli;Ivan;4;0;H
+29;02/07;20:00;Noite;GT Leagues;Roma;Saigon;Galatasaray;Mosquito;3;1;H
+30;02/07;20:00;Noite;GT Leagues;Rangers;Socrates;Brighton;Professor;3;5;A
+31;02/07;20:00;Noite;GT Leagues;Juventus;Goliath;Napoli;Ivan;2;2;D
+32;02/07;20:00;Noite;GT Leagues;Roma;Hakan;AC Milan;TongPo;2;0;H
+33;02/07;19:45;Noite;GT Leagues;Brighton;Professor;Galatasaray;Mosquito;4;5;A
+34;02/07;19:45;Noite;GT Leagues;Rangers;Socrates;SC Freiburg;Furious;3;5;A
+35;02/07;19:45;Noite;GT Leagues;Roma;Hakan;Inter;Carlos;1;1;D
+36;02/07;19:45;Noite;GT Leagues;Napoli;Ivan;AC Milan;TongPo;3;2;H
+37;02/07;19:30;Noite;GT Leagues;Roma;Saigon;Rangers;Socrates;5;1;H
+38;02/07;19:30;Noite;GT Leagues;Brighton;Professor;SC Freiburg;Furious;0;4;A
+39;02/07;19:30;Noite;GT Leagues;Roma;Hakan;Juventus;Goliath;2;3;A
+40;02/07;19:30;Noite;GT Leagues;Inter;Carlos;AC Milan;TongPo;1;2;A
+41;02/07;19:15;Noite;GT Leagues;Roma;Saigon;Brighton;Professor;4;6;A
+42;02/07;19:15;Noite;GT Leagues;Inter;Carlos;Juventus;Goliath;5;5;D
+43;02/07;19:15;Noite;GT Leagues;Napoli;Ivan;Roma;Hakan;2;2;D
+44;02/07;19:00;Noite;GT Leagues;Roma;Saigon;SC Freiburg;Furious;1;1;D
+45;02/07;19:00;Noite;GT Leagues;AC Milan;TongPo;Juventus;Goliath;6;4;H
+46;02/07;19:00;Noite;GT Leagues;Napoli;Ivan;Inter;Carlos;3;3;D
+47;02/07;18:45;Noite;GT Leagues;Brighton;Professor;Rangers;Socrates;5;0;H
+48;02/07;18:45;Noite;GT Leagues;Napoli;Ivan;Juventus;Goliath;3;1;H
+49;02/07;18:45;Noite;GT Leagues;AC Milan;TongPo;Roma;Hakan;1;1;D
+50;02/07;18:30;Noite;GT Leagues;SC Freiburg;Furious;Rangers;Socrates;5;3;H
+51;02/07;18:30;Noite;GT Leagues;Inter;Carlos;Roma;Hakan;1;1;D
+52;02/07;18:30;Noite;GT Leagues;AC Milan;TongPo;Napoli;Ivan;3;3;D
+53;02/07;18:15;Noite;GT Leagues;SC Freiburg;Furious;Brighton;Professor;3;1;H
+54;02/07;18:15;Noite;GT Leagues;Rangers;Socrates;Roma;Saigon;3;3;D
+55;02/07;18:15;Noite;GT Leagues;AC Milan;TongPo;Inter;Carlos;3;3;D
+56;02/07;18:00;Noite;GT Leagues;Real Madrid;Furious;Bayern;Mosquito;4;2;H
+57;02/07;18:00;Noite;GT Leagues;PSG;Professor;Man City;Saigon;4;2;H
+58;02/07;18:00;Noite;GT Leagues;Juventus;Goliath;Inter;Carlos;0;4;A
+59;02/07;18:00;Noite;GT Leagues;Roma;Hakan;Napoli;Ivan;1;3;A
+60;02/07;17:45;Tarde;GT Leagues;Inter;Socrates;Bayern;Mosquito;2;2;D
+61;02/07;17:45;Tarde;GT Leagues;Real Madrid;Furious;Man City;Saigon;4;5;A
+62;02/07;17:30;Tarde;GT Leagues;Man City;Saigon;Bayern;Mosquito;3;1;H
+63;02/07;17:30;Tarde;GT Leagues;Inter;Socrates;PSG;Professor;1;3;A
+64;02/07;17:30;Tarde;GT Leagues;Girona;Venom;A.Bilbao;Mars;2;1;H
+65;02/07;17:30;Tarde;GT Leagues;A.Madrid;Anthem;Barcelona;Raul;4;3;H
+66;02/07;17:15;Tarde;GT Leagues;PSG;Professor;Bayern;Mosquito;3;5;A
+67;02/07;17:15;Tarde;GT Leagues;Inter;Socrates;Real Madrid;Furious;3;2;H
+68;02/07;17:15;Tarde;GT Leagues;Real Madrid;Seagal;Barcelona;Raul;1;4;A
+69;02/07;17:15;Tarde;GT Leagues;A.Madrid;Anthem;A.Bilbao;Mars;1;4;A
+70;02/07;17:00;Tarde;GT Leagues;Man City;Saigon;Inter;Socrates;3;2;H
+71;02/07;17:00;Tarde;GT Leagues;PSG;Professor;Real Madrid;Furious;1;4;A
+72;02/07;17:00;Tarde;GT Leagues;Real Madrid;Seagal;Girona;Venom;3;1;H
+73;02/07;17:00;Tarde;GT Leagues;A.Bilbao;Mars;Barcelona;Raul;2;5;A
+74;02/07;16:45;Tarde;GT Leagues;Girona;Venom;Barcelona;Raul;0;3;A
+75;02/07;16:45;Tarde;GT Leagues;Real Madrid;Seagal;A.Madrid;Anthem;3;3;D
+76;02/07;16:30;Tarde;GT Leagues;Bayern;Mosquito;Real Madrid;Furious;2;1;H
+77;02/07;16:30;Tarde;GT Leagues;Man City;Saigon;PSG;Professor;1;1;D
+78;02/07;16:30;Tarde;GT Leagues;Girona;Venom;A.Madrid;Anthem;1;4;A
+79;02/07;16:30;Tarde;GT Leagues;A.Bilbao;Mars;Real Madrid;Seagal;1;3;A
+80;02/07;16:15;Tarde;GT Leagues;Bayern;Mosquito;Inter;Socrates;2;3;A
+81;02/07;16:15;Tarde;GT Leagues;A.Bilbao;Mars;Girona;Venom;4;2;H
+82;02/07;16:15;Tarde;GT Leagues;Barcelona;Raul;A.Madrid;Anthem;2;3;A
+83;02/07;16:00;Tarde;GT Leagues;Bayern;Mosquito;Man City;Saigon;3;4;A
+84;02/07;16:00;Tarde;GT Leagues;PSG;Professor;Inter;Socrates;1;4;A
+85;02/07;16:00;Tarde;GT Leagues;A.Bilbao;Mars;A.Madrid;Anthem;1;4;A
+86;02/07;16:00;Tarde;GT Leagues;Barcelona;Raul;Real Madrid;Seagal;1;4;A
+87;02/07;15:45;Tarde;GT Leagues;Bayern;Mosquito;PSG;Professor;2;1;H
+88;02/07;15:45;Tarde;GT Leagues;Real Madrid;Furious;Inter;Socrates;4;2;H
+89;02/07;15:45;Tarde;GT Leagues;Barcelona;Raul;A.Bilbao;Mars;4;3;H
+90;02/07;15:30;Tarde;GT Leagues;Inter;Socrates;Man City;Saigon;2;3;A
+91;02/07;15:30;Tarde;GT Leagues;Real Madrid;Furious;PSG;Professor;2;4;A
+92;02/07;15:30;Tarde;GT Leagues;Barcelona;Raul;Girona;Venom;2;1;H
+93;02/07;15:30;Tarde;GT Leagues;A.Madrid;Anthem;Real Madrid;Seagal;2;1;H
+94;02/07;15:15;Tarde;GT Leagues;Napoli;Furious;A.Madrid;Mosquito;4;1;H
+95;02/07;15:15;Tarde;GT Leagues;Porto;Professor;Leipzig;Saigon;4;4;D
+96;02/07;15:15;Tarde;GT Leagues;A.Madrid;Anthem;Girona;Venom;3;4;A
+97;02/07;15:15;Tarde;GT Leagues;Real Madrid;Seagal;A.Bilbao;Mars;2;4;A
+98;02/07;15:00;Tarde;GT Leagues;PSV;Socrates;A.Madrid;Mosquito;3;2;H
+99;02/07;15:00;Tarde;GT Leagues;Napoli;Furious;Leipzig;Saigon;2;5;A
+100;02/07;15:00;Tarde;GT Leagues;Dortmund;Venom;Copenhagen;Mars;2;1;H
+101;02/07;15:00;Tarde;GT Leagues;Barcelona;Anthem;Arsenal;Raul;0;4;A
+102;02/07;14:45;Tarde;GT Leagues;Leipzig;Saigon;A.Madrid;Mosquito;5;2;H
+103;02/07;14:45;Tarde;GT Leagues;PSV;Socrates;Porto;Professor;5;6;A
+104;02/07;14:45;Tarde;GT Leagues;Barcelona;Anthem;Copenhagen;Mars;1;2;A
+105;02/07;14:45;Tarde;GT Leagues;Lazio;Seagal;Arsenal;Raul;2;4;A
+106;02/07;14:30;Tarde;GT Leagues;Porto;Professor;A.Madrid;Mosquito;1;0;H
+107;02/07;14:30;Tarde;GT Leagues;PSV;Socrates;Napoli;Furious;2;3;A
+108;02/07;14:30;Tarde;GT Leagues;Lazio;Seagal;Dortmund;Venom;4;1;H
+109;02/07;14:30;Tarde;GT Leagues;Copenhagen;Mars;Arsenal;Raul;3;2;H
+110;02/07;14:15;Tarde;GT Leagues;Porto;Professor;Napoli;Furious;0;2;A
+111;02/07;14:15;Tarde;GT Leagues;Leipzig;Saigon;PSV;Socrates;3;5;A
+112;02/07;14:15;Tarde;GT Leagues;Lazio;Seagal;Barcelona;Anthem;4;3;H
+113;02/07;14:15;Tarde;GT Leagues;Dortmund;Venom;Arsenal;Raul;3;4;A
+114;02/07;14:00;Tarde;GT Leagues;A.Madrid;Mosquito;Napoli;Furious;1;6;A
+115;02/07;14:00;Tarde;GT Leagues;Leipzig;Saigon;Porto;Professor;3;5;A
+116;02/07;14:00;Tarde;GT Leagues;Dortmund;Venom;Barcelona;Anthem;3;2;H
+117;02/07;14:00;Tarde;GT Leagues;Copenhagen;Mars;Lazio;Seagal;3;4;A
+118;02/07;13:45;Tarde;GT Leagues;A.Madrid;Mosquito;PSV;Socrates;5;4;H
+119;02/07;13:45;Tarde;GT Leagues;Leipzig;Saigon;Napoli;Furious;2;3;A
+120;02/07;13:30;Tarde;GT Leagues;A.Madrid;Mosquito;Leipzig;Saigon;0;3;A
+121;02/07;13:30;Tarde;GT Leagues;Porto;Professor;PSV;Socrates;1;1;D
+122;02/07;13:30;Tarde;GT Leagues;Copenhagen;Mars;Dortmund;Venom;4;2;H
+123;02/07;13:30;Tarde;GT Leagues;Arsenal;Raul;Barcelona;Anthem;2;5;A
+124;02/07;13:15;Tarde;GT Leagues;A.Madrid;Mosquito;Porto;Professor;2;1;H
+125;02/07;13:15;Tarde;GT Leagues;Napoli;Furious;PSV;Socrates;1;1;D
+126;02/07;13:15;Tarde;GT Leagues;Copenhagen;Mars;Barcelona;Anthem;0;2;A
+127;02/07;13:15;Tarde;GT Leagues;Arsenal;Raul;Lazio;Seagal;2;2;D
+128;02/07;13:00;Tarde;GT Leagues;Napoli;Furious;Porto;Professor;1;2;A
+129;02/07;13:00;Tarde;GT Leagues;PSV;Socrates;Leipzig;Saigon;2;5;A
+130;02/07;13:00;Tarde;GT Leagues;Dortmund;Venom;Lazio;Seagal;1;4;A
+131;02/07;13:00;Tarde;GT Leagues;Arsenal;Raul;Copenhagen;Mars;3;2;H
+132;02/07;12:45;Tarde;GT Leagues;Barcelona;Anthem;Lazio;Seagal;4;4;D
+133;02/07;12:45;Tarde;GT Leagues;Arsenal;Raul;Dortmund;Venom;1;1;D
+134;02/07;12:30;Tarde;GT Leagues;PSG;Pele;Man City;Cruise;4;0;H
+135;02/07;12:30;Tarde;GT Leagues;Real Madrid;Dennis;Bayern;Pontiac;3;4;A
+136;02/07;12:30;Tarde;GT Leagues;Barcelona;Anthem;Dortmund;Venom;3;2;H
+137;02/07;12:30;Tarde;GT Leagues;Lazio;Seagal;Copenhagen;Mars;1;1;D
+138;02/07;12:15;Tarde;GT Leagues;Real Madrid;Dennis;Man City;Cruise;2;4;A
+139;02/07;12:15;Tarde;GT Leagues;Inter;Gorilla;Bayern;Pontiac;3;3;D
+140;02/07;12:15;Tarde;GT Leagues;Bayer 04;Venom;Toulouse;Mars;0;2;A
+141;02/07;12:15;Tarde;GT Leagues;Atalanta;Anthem;Sporting;Raul;3;3;D
+142;02/07;12:00;Tarde;GT Leagues;Man City;Cruise;Bayern;Pontiac;1;5;A
+143;02/07;12:00;Tarde;GT Leagues;Inter;Gorilla;PSG;Pele;2;3;A
+144;02/07;12:00;Tarde;GT Leagues;Feyenoord;Seagal;Sporting;Raul;0;2;A
+145;02/07;12:00;Tarde;GT Leagues;Atalanta;Anthem;Toulouse;Mars;4;3;H
+146;02/07;11:45;Manhã;GT Leagues;PSG;Pele;Bayern;Pontiac;2;4;A
+147;02/07;11:45;Manhã;GT Leagues;Inter;Gorilla;Real Madrid;Dennis;3;2;H
+148;02/07;11:45;Manhã;GT Leagues;Feyenoord;Seagal;Bayer 04;Venom;4;1;H
+149;02/07;11:45;Manhã;GT Leagues;Toulouse;Mars;Sporting;Raul;2;1;H
+150;02/07;11:30;Manhã;GT Leagues;PSG;Pele;Real Madrid;Dennis;6;1;H
+151;02/07;11:30;Manhã;GT Leagues;Man City;Cruise;Inter;Gorilla;0;2;A
+152;02/07;11:30;Manhã;GT Leagues;Bayer 04;Venom;Sporting;Raul;3;0;H
+153;02/07;11:30;Manhã;GT Leagues;Feyenoord;Seagal;Atalanta;Anthem;3;0;H
+154;02/07;11:15;Manhã;GT Leagues;Man City;Cruise;PSG;Pele;2;4;A
+155;02/07;11:15;Manhã;GT Leagues;Bayern;Pontiac;Real Madrid;Dennis;2;2;D
+156;02/07;11:15;Manhã;GT Leagues;Bayer 04;Venom;Atalanta;Anthem;1;2;A
+157;02/07;11:15;Manhã;GT Leagues;Toulouse;Mars;Feyenoord;Seagal;1;3;A
+158;02/07;11:00;Manhã;GT Leagues;Man City;Cruise;Real Madrid;Dennis;2;1;H
+159;02/07;11:00;Manhã;GT Leagues;Bayern;Pontiac;Inter;Gorilla;4;2;H
+160;02/07;11:00;Manhã;GT Leagues;Toulouse;Mars;Bayer 04;Venom;3;0;H
+161;02/07;11:00;Manhã;GT Leagues;Sporting;Raul;Atalanta;Anthem;2;2;D
+162;02/07;10:45;Manhã;GT Leagues;Bayern;Pontiac;Man City;Cruise;1;3;A
+163;02/07;10:45;Manhã;GT Leagues;PSG;Pele;Inter;Gorilla;5;3;H
+164;02/07;10:45;Manhã;GT Leagues;Sporting;Raul;Feyenoord;Seagal;1;4;A
+165;02/07;10:45;Manhã;GT Leagues;Toulouse;Mars;Atalanta;Anthem;0;1;A
+166;02/07;10:30;Manhã;GT Leagues;Bayern;Pontiac;PSG;Pele;2;6;A
+167;02/07;10:30;Manhã;GT Leagues;Real Madrid;Dennis;Inter;Gorilla;2;2;D
+168;02/07;10:30;Manhã;GT Leagues;Bayer 04;Venom;Feyenoord;Seagal;3;4;A
+169;02/07;10:30;Manhã;GT Leagues;Sporting;Raul;Toulouse;Mars;1;3;A
+170;02/07;10:15;Manhã;GT Leagues;Real Madrid;Dennis;PSG;Pele;1;5;A
+171;02/07;10:15;Manhã;GT Leagues;Inter;Gorilla;Man City;Cruise;3;2;H
+172;02/07;10:15;Manhã;GT Leagues;Sporting;Raul;Bayer 04;Venom;1;1;D
+173;02/07;10:15;Manhã;GT Leagues;Atalanta;Anthem;Feyenoord;Seagal;3;2;H
+174;02/07;10:00;Manhã;GT Leagues;West Ham;Dennis;Villarreal;Pontiac;4;1;H
+175;02/07;10:00;Manhã;GT Leagues;AC Milan;Pele;Benfica;Cruise;3;2;H
+176;02/07;10:00;Manhã;GT Leagues;Atalanta;Anthem;Bayer 04;Venom;2;2;D
+177;02/07;10:00;Manhã;GT Leagues;Feyenoord;Seagal;Toulouse;Mars;3;3;D
+178;02/07;09:45;Manhã;GT Leagues;Marseille;Gorilla;Villarreal;Pontiac;0;3;A
+179;02/07;09:45;Manhã;GT Leagues;West Ham;Dennis;Benfica;Cruise;3;1;H
+180;02/07;09:30;Manhã;GT Leagues;Benfica;Cruise;Villarreal;Pontiac;4;5;A
+181;02/07;09:30;Manhã;GT Leagues;Marseille;Gorilla;AC Milan;Pele;4;2;H
+182;02/07;09:30;Manhã;GT Leagues;Bayer 04;Magdy;Dortmund;Panic;1;2;A
+183;02/07;09:30;Manhã;GT Leagues;RB Leipzig;Nazario;Bayern;Punisher;3;3;D
+184;02/07;09:15;Manhã;GT Leagues;AC Milan;Pele;Villarreal;Pontiac;6;3;H
+185;02/07;09:15;Manhã;GT Leagues;Marseille;Gorilla;West Ham;Dennis;0;2;A
+186;02/07;09:15;Manhã;GT Leagues;VfB Stuttgart;Aladdin;Dortmund;Panic;2;3;A
+187;02/07;09:15;Manhã;GT Leagues;Bayer 04;Magdy;Bayern;Punisher;4;1;H
+188;02/07;09:00;Manhã;GT Leagues;Benfica;Cruise;Marseille;Gorilla;1;0;H
+189;02/07;09:00;Manhã;GT Leagues;AC Milan;Pele;West Ham;Dennis;1;4;A
+190;02/07;09:00;Manhã;GT Leagues;VfB Stuttgart;Aladdin;RB Leipzig;Nazario;4;0;H
+191;02/07;09:00;Manhã;GT Leagues;Bayern;Punisher;Dortmund;Panic;1;1;D
+192;02/07;08:45;Manhã;GT Leagues;VfB Stuttgart;Aladdin;Bayer 04;Magdy;2;0;H
+193;02/07;08:45;Manhã;GT Leagues;RB Leipzig;Nazario;Dortmund;Panic;1;0;H
+194;02/07;08:30;Manhã;GT Leagues;Villarreal;Pontiac;West Ham;Dennis;5;4;H
+195;02/07;08:30;Manhã;GT Leagues;Benfica;Cruise;AC Milan;Pele;2;3;A
+196;02/07;08:30;Manhã;GT Leagues;Bayern;Punisher;VfB Stuttgart;Aladdin;2;5;A
+197;02/07;08:30;Manhã;GT Leagues;RB Leipzig;Nazario;Bayer 04;Magdy;3;6;A
+198;02/07;08:15;Manhã;GT Leagues;Villarreal;Pontiac;Marseille;Gorilla;2;3;A
+199;02/07;08:15;Manhã;GT Leagues;Benfica;Cruise;West Ham;Dennis;1;1;D
+200;02/07;08:15;Manhã;GT Leagues;Dortmund;Panic;Bayer 04;Magdy;4;1;H
+201;02/07;08:15;Manhã;GT Leagues;Bayern;Punisher;RB Leipzig;Nazario;1;2;A
+202;02/07;08:00;Manhã;GT Leagues;Villarreal;Pontiac;Benfica;Cruise;1;4;A
+203;02/07;08:00;Manhã;GT Leagues;AC Milan;Pele;Marseille;Gorilla;5;1;H
+204;02/07;08:00;Manhã;GT Leagues;Dortmund;Panic;VfB Stuttgart;Aladdin;1;3;A
+205;02/07;08:00;Manhã;GT Leagues;Bayern;Punisher;Bayer 04;Magdy;3;4;A
+206;02/07;07:45;Manhã;GT Leagues;Villarreal;Pontiac;AC Milan;Pele;5;6;A
+207;02/07;07:45;Manhã;GT Leagues;West Ham;Dennis;Marseille;Gorilla;2;3;A
+208;02/07;07:45;Manhã;GT Leagues;RB Leipzig;Nazario;VfB Stuttgart;Aladdin;2;2;D
+209;02/07;07:45;Manhã;GT Leagues;Dortmund;Panic;Bayern;Punisher;2;2;D
+210;02/07;07:30;Manhã;GT Leagues;Marseille;Gorilla;Benfica;Cruise;1;0;H
+211;02/07;07:30;Manhã;GT Leagues;West Ham;Dennis;AC Milan;Pele;3;2;H
+212;02/07;07:30;Manhã;GT Leagues;Bayer 04;Magdy;VfB Stuttgart;Aladdin;6;3;H
+213;02/07;07:30;Manhã;GT Leagues;Dortmund;Panic;RB Leipzig;Nazario;1;4;A
+214;02/07;07:15;Manhã;GT Leagues;Man City;Pele;Man Utd;Cruise;4;1;H
+215;02/07;07:15;Manhã;GT Leagues;Tottenham;Dennis;Arsenal;Pontiac;6;3;H
+216;02/07;07:15;Manhã;GT Leagues;VfB Stuttgart;Aladdin;Bayern;Punisher;3;1;H
+217;02/07;07:15;Manhã;GT Leagues;Bayer 04;Magdy;RB Leipzig;Nazario;3;3;D
+218;02/07;07:00;Manhã;GT Leagues;Aston Villa;Gorilla;Arsenal;Pontiac;1;2;A
+219;02/07;07:00;Manhã;GT Leagues;Tottenham;Dennis;Man Utd;Cruise;3;0;H
+220;02/07;07:00;Manhã;GT Leagues;Lille;Nazario;Real Betis;Punisher;4;1;H
+221;02/07;07:00;Manhã;GT Leagues;PAOK;Magdy;Ajax;Panic;4;1;H
+222;02/07;06:45;Manhã;GT Leagues;Aston Villa;Gorilla;Man City;Pele;0;5;A
+223;02/07;06:45;Manhã;GT Leagues;Man Utd;Cruise;Arsenal;Pontiac;2;5;A
+224;02/07;06:45;Manhã;GT Leagues;PAOK;Magdy;Real Betis;Punisher;4;6;A
+225;02/07;06:45;Manhã;GT Leagues;Aston Villa;Aladdin;Ajax;Panic;2;2;D
+226;02/07;06:30;Manhã;GT Leagues;Man City;Pele;Arsenal;Pontiac;5;4;H
+227;02/07;06:30;Manhã;GT Leagues;Aston Villa;Gorilla;Tottenham;Dennis;2;3;A
+228;02/07;06:30;Manhã;GT Leagues;Real Betis;Punisher;Ajax;Panic;3;3;D
+229;02/07;06:30;Manhã;GT Leagues;Aston Villa;Aladdin;Lille;Nazario;1;2;A
+230;02/07;06:15;Manhã;GT Leagues;Man City;Pele;Tottenham;Dennis;5;2;H
+231;02/07;06:15;Manhã;GT Leagues;Man Utd;Cruise;Aston Villa;Gorilla;3;4;A
+232;02/07;06:15;Manhã;GT Leagues;Lille;Nazario;Ajax;Panic;2;4;A
+233;02/07;06:00;Manhã;GT Leagues;Man Utd;Cruise;Man City;Pele;2;3;A
+234;02/07;06:00;Manhã;GT Leagues;Arsenal;Pontiac;Tottenham;Dennis;2;3;A
+235;02/07;06:00;Manhã;GT Leagues;Real Betis;Punisher;Aston Villa;Aladdin;2;2;D
+236;02/07;06:00;Manhã;GT Leagues;Lille;Nazario;PAOK;Magdy;4;3;H
+237;02/07;05:45;Madrugada;GT Leagues;Arsenal;Pontiac;Aston Villa;Gorilla;2;2;D
+238;02/07;05:45;Madrugada;GT Leagues;Man Utd;Cruise;Tottenham;Dennis;3;4;A
+239;02/07;05:30;Madrugada;GT Leagues;Man City;Pele;Aston Villa;Gorilla;5;0;H
+240;02/07;05:30;Madrugada;GT Leagues;Arsenal;Pontiac;Man Utd;Cruise;2;5;A
+241;02/07;05:30;Madrugada;GT Leagues;Real Betis;Punisher;Lille;Nazario;1;3;A
+242;02/07;05:30;Madrugada;GT Leagues;Ajax;Panic;PAOK;Magdy;4;5;A
+243;02/07;05:15;Madrugada;GT Leagues;Arsenal;Pontiac;Man City;Pele;4;6;A
+244;02/07;05:15;Madrugada;GT Leagues;Tottenham;Dennis;Aston Villa;Gorilla;2;0;H
+245;02/07;05:15;Madrugada;GT Leagues;Real Betis;Punisher;PAOK;Magdy;3;4;A
+246;02/07;05:15;Madrugada;GT Leagues;Ajax;Panic;Aston Villa;Aladdin;3;5;A
+247;02/07;05:00;Madrugada;GT Leagues;Tottenham;Dennis;Man City;Pele;2;2;D
+248;02/07;05:00;Madrugada;GT Leagues;Aston Villa;Gorilla;Man Utd;Cruise;3;3;D
+249;02/07;05:00;Madrugada;GT Leagues;Ajax;Panic;Real Betis;Punisher;2;5;A
+250;02/07;05:00;Madrugada;GT Leagues;Lille;Nazario;Aston Villa;Aladdin;2;2;D
+251;02/07;04:45;Madrugada;GT Leagues;Ajax;Panic;Lille;Nazario;2;3;A
+252;02/07;04:45;Madrugada;GT Leagues;PAOK;Magdy;Aston Villa;Aladdin;4;3;H
+253;02/07;04:30;Madrugada;GT Leagues;Aston Villa;Aladdin;Real Betis;Punisher;5;3;H
+254;02/07;04:30;Madrugada;GT Leagues;PAOK;Magdy;Lille;Nazario;2;1;H
+255;02/07;04:30;Madrugada;GT Leagues;Aston Villa;Aladdin;Real Betis;Punisher;5;3;H
+256;02/07;04:30;Madrugada;GT Leagues;PAOK;Magdy;Lille;Nazario;2;1;H
+257;02/07;04:15;Madrugada;GT Leagues;Real Madrid;Magdy;Bayern;Panic;2;3;A
+258;02/07;04:15;Madrugada;GT Leagues;PSG;Nazario;Man City;Punisher;5;3;H
+259;02/07;04:00;Madrugada;GT Leagues;Inter;Aladdin;Bayern;Panic;2;2;D
+260;02/07;04:00;Madrugada;GT Leagues;Real Madrid;Magdy;Man City;Punisher;2;1;H
+261;02/07;03:45;Madrugada;GT Leagues;Inter;Aladdin;PSG;Nazario;2;3;A
+262;02/07;03:45;Madrugada;GT Leagues;Man City;Punisher;Bayern;Panic;1;2;A
+263;02/07;03:30;Madrugada;GT Leagues;Inter;Aladdin;Real Madrid;Magdy;3;3;D
+264;02/07;03:30;Madrugada;GT Leagues;PSG;Nazario;Bayern;Panic;3;5;A
+265;02/07;03:15;Madrugada;GT Leagues;PSG;Nazario;Real Madrid;Magdy;2;4;A
+266;02/07;03:15;Madrugada;GT Leagues;Man City;Punisher;Inter;Aladdin;1;2;A
+267;02/07;03:00;Madrugada;GT Leagues;Man City;Punisher;PSG;Nazario;3;1;H
+268;02/07;03:00;Madrugada;GT Leagues;Bayern;Panic;Real Madrid;Magdy;2;3;A
+269;02/07;02:45;Madrugada;GT Leagues;Man City;Punisher;Real Madrid;Magdy;4;2;H
+270;02/07;02:45;Madrugada;GT Leagues;Bayern;Panic;Inter;Aladdin;2;0;H
+271;02/07;02:30;Madrugada;GT Leagues;Bayern;Panic;Man City;Punisher;5;1;H
+272;02/07;02:30;Madrugada;GT Leagues;PSG;Nazario;Inter;Aladdin;3;4;A
+273;02/07;02:15;Madrugada;GT Leagues;Real Madrid;Magdy;Inter;Aladdin;5;1;H
+274;02/07;02:15;Madrugada;GT Leagues;Bayern;Panic;PSG;Nazario;0;3;A
+275;02/07;02:00;Madrugada;GT Leagues;Inter;Aladdin;Man City;Punisher;4;1;H
+276;02/07;02:00;Madrugada;GT Leagues;Real Madrid;Magdy;PSG;Nazario;3;4;A
+277;02/07;01:30;Madrugada;GT Leagues;West Ham;Goliath;Villarreal;Tongpo;1;7;A
+278;02/07;01:30;Madrugada;GT Leagues;AC Milan;Carlos;Benfica;Ivan;6;3;H
+279;02/07;01:15;Madrugada;GT Leagues;West Ham;Goliath;Benfica;Ivan;6;2;H
+280;02/07;01:00;Madrugada;GT Leagues;Benfica;Ivan;Villarreal;Tongpo;1;5;A
+281;02/07;01:00;Madrugada;GT Leagues;Marseille;Hakan;AC Milan;Carlos;2;5;A
+282;02/07;00:45;Madrugada;GT Leagues;Marseille;Hakan;West Ham;Goliath;2;3;A
+283;02/07;00:45;Madrugada;GT Leagues;AC Milan;Carlos;Villarreal;Tongpo;2;3;A
+284;02/07;00:30;Madrugada;GT Leagues;Benfica;Ivan;Marseille;Hakan;3;1;H
+285;02/07;00:30;Madrugada;GT Leagues;AC Milan;Carlos;West Ham;Goliath;2;2;D
+286;02/07;00:15;Madrugada;GT Leagues;Benfica;Ivan;AC Milan;Carlos;5;4;H
+287;02/07;00:15;Madrugada;GT Leagues;Villarreal;Tongpo;West Ham;Goliath;1;4;A
+288;02/07;00:00;Madrugada;GT Leagues;Villarreal;Tongpo;Marseille;Hakan;5;2;H
+289;02/07;00:00;Madrugada;GT Leagues;Benfica;Ivan;West Ham;Goliath;2;1;H
+290;02/06;23:45;Noite;GT Leagues;AC Milan;Carlos;Marseille;Hakan;5;2;H
+291;02/06;23:45;Noite;GT Leagues;Villarreal;Tongpo;Benfica;Ivan;4;3;H
+292;02/06;23:30;Noite;GT Leagues;West Ham;Goliath;Marseille;Hakan;4;1;H
+293;02/06;23:30;Noite;GT Leagues;Villarreal;Tongpo;AC Milan;Carlos;0;5;A
+294;02/06;23:15;Noite;GT Leagues;Marseille;Hakan;Benfica;Ivan;3;6;A
+295;02/06;23:15;Noite;GT Leagues;West Ham;Goliath;AC Milan;Carlos;0;4;A
+296;02/06;23:00;Noite;GT Leagues;Barcelona;Goliath;Arsenal;TongPo;1;4;A
+297;02/06;23:00;Noite;GT Leagues;Dortmund;Carlos;Copenhagen;Ivan;5;2;H
+298;02/06;22:45;Noite;GT Leagues;Lazio;Hakan;Arsenal;TongPo;1;0;H
+299;02/06;22:45;Noite;GT Leagues;Barcelona;Goliath;Copenhagen;Ivan;2;3;A
+300;02/06;22:30;Noite;GT Leagues;Lazio;Hakan;Dortmund;Carlos;1;3;A
+301;02/06;22:30;Noite;GT Leagues;Copenhagen;Ivan;Arsenal;TongPo;2;4;A
+302;02/06;22:15;Noite;GT Leagues;Lazio;Hakan;Barcelona;Goliath;3;4;A
+303;02/06;22:15;Noite;GT Leagues;Dortmund;Carlos;Arsenal;TongPo;5;3;H
+304;02/06;22:00;Noite;GT Leagues;Copenhagen;Ivan;Lazio;Hakan;5;0;H
+305;02/06;22:00;Noite;GT Leagues;Dortmund;Carlos;Barcelona;Goliath;3;0;H
+306;02/06;21:30;Noite;GT Leagues;Copenhagen;Ivan;Dortmund;Carlos;5;6;A
+307;02/06;21:30;Noite;GT Leagues;Arsenal;TongPo;Barcelona;Goliath;3;1;H
+308;02/06;21:15;Noite;GT Leagues;Arsenal;TongPo;Lazio;Hakan;4;3;H
+309;02/06;21:15;Noite;GT Leagues;Copenhagen;Ivan;Barcelona;Goliath;2;2;D
+310;02/06;21:00;Noite;GT Leagues;Dortmund;Carlos;Lazio;Hakan;5;2;H
+311;02/06;21:00;Noite;GT Leagues;Arsenal;TongPo;Copenhagen;Ivan;3;5;A
+312;02/06;20:45;Noite;GT Leagues;Barcelona;Goliath;Lazio;Hakan;5;1;H
+313;02/06;20:45;Noite;GT Leagues;Arsenal;TongPo;Dortmund;Carlos;2;2;D
+314;02/06;20:30;Noite;GT Leagues;SC Freiburg;Furious;Galatasaray;David;5;2;H
+315;02/06;20:30;Noite;GT Leagues;Lazio;Hakan;Copenhagen;Ivan;3;3;D
+316;02/06;20:30;Noite;GT Leagues;Barcelona;Goliath;Dortmund;Carlos;3;3;D
+317;02/06;20:15;Noite;GT Leagues;SC Freiburg;Furious;Roma;Saigon;2;1;H
+318;02/06;20:15;Noite;GT Leagues;Rangers;Socrates;Galatasaray;David;6;6;D
+319;02/06;20:15;Noite;GT Leagues;Juventus;Goliath;AC Milan;TongPo;4;2;H
+320;02/06;20:15;Noite;GT Leagues;Inter;Carlos;Napoli;Ivan;3;3;D
+321;02/06;20:00;Noite;GT Leagues;Roma;Saigon;Galatasaray;David;0;2;A
+322;02/06;20:00;Noite;GT Leagues;Roma;Hakan;AC Milan;TongPo;0;1;A
+323;02/06;20:00;Noite;GT Leagues;Rangers;Socrates;Brighton;Professor;2;0;H
+324;02/06;20:00;Noite;GT Leagues;Juventus;Goliath;Napoli;Ivan;4;1;H
+325;02/06;19:45;Noite;GT Leagues;Rangers;Socrates;SC Freiburg;Furious;2;1;H
+326;02/06;19:45;Noite;GT Leagues;Roma;Hakan;Inter;Carlos;0;4;A
+327;02/06;19:45;Noite;GT Leagues;Brighton;Professor;Galatasaray;David;4;3;H
+328;02/06;19:45;Noite;GT Leagues;Napoli;Ivan;AC Milan;TongPo;1;0;H
+329;02/06;19:30;Noite;GT Leagues;Roma;Hakan;Juventus;Goliath;2;2;D
+330;02/06;19:30;Noite;GT Leagues;Roma;Saigon;Rangers;Socrates;2;3;A
+331;02/06;19:30;Noite;GT Leagues;Brighton;Professor;SC Freiburg;Furious;1;1;D
+332;02/06;19:30;Noite;GT Leagues;Inter;Carlos;AC Milan;TongPo;4;2;H
+333;02/06;19:15;Noite;GT Leagues;Roma;Saigon;Brighton;Professor;1;3;A
+334;02/06;19:15;Noite;GT Leagues;Galatasaray;David;SC Freiburg;Furious;2;2;D
+335;02/06;19:15;Noite;GT Leagues;Napoli;Ivan;Roma;Hakan;4;3;H
+336;02/06;19:00;Noite;GT Leagues;Roma;Saigon;SC Freiburg;Furious;2;2;D
+337;02/06;19:00;Noite;GT Leagues;Galatasaray;David;Rangers;Socrates;1;3;A
+338;02/06;19:00;Noite;GT Leagues;AC Milan;TongPo;Juventus;Goliath;4;2;H
+339;02/06;19:00;Noite;GT Leagues;Napoli;Ivan;Inter;Carlos;3;4;A
+340;02/06;18:45;Noite;GT Leagues;AC Milan;TongPo;Roma;Hakan;3;1;H
+341;02/06;18:45;Noite;GT Leagues;Galatasaray;David;Roma;Saigon;2;6;A
+342;02/06;18:45;Noite;GT Leagues;Brighton;Professor;Rangers;Socrates;2;3;A
+343;02/06;18:45;Noite;GT Leagues;Napoli;Ivan;Juventus;Goliath;4;2;H
+344;02/06;18:30;Noite;GT Leagues;Inter;Carlos;Roma;Hakan;5;0;H
+345;02/06;18:30;Noite;GT Leagues;SC Freiburg;Furious;Rangers;Socrates;1;1;D
+346;02/06;18:30;Noite;GT Leagues;Galatasaray;David;Brighton;Professor;5;1;H
+347;02/06;18:30;Noite;GT Leagues;AC Milan;TongPo;Napoli;Ivan;2;6;A
+348;02/06;18:15;Noite;GT Leagues;Juventus;Goliath;Roma;Hakan;4;3;H
+349;02/06;18:15;Noite;GT Leagues;Rangers;Socrates;Roma;Saigon;4;3;H
+350;02/06;18:15;Noite;GT Leagues;SC Freiburg;Furious;Brighton;Professor;3;0;H
+351;02/06;18:15;Noite;GT Leagues;AC Milan;TongPo;Inter;Carlos;3;4;A
+352;02/06;18:00;Noite;GT Leagues;Roma;Hakan;Napoli;Ivan;0;2;A
+353;02/06;18:00;Noite;GT Leagues;PSG;Professor;Man City;Saigon;1;1;D
+354;02/06;18:00;Noite;GT Leagues;Real Madrid;Furious;Bayern;David;3;4;A
+355;02/06;18:00;Noite;GT Leagues;Juventus;Goliath;Inter;Carlos;1;6;A
+356;02/06;17:45;Tarde;GT Leagues;Real Madrid;Furious;Man City;Saigon;5;3;H
+357;02/06;17:45;Tarde;GT Leagues;Inter;Socrates;Bayern;David;5;3;H
+358;02/06;17:30;Tarde;GT Leagues;Man City;Saigon;Bayern;David;2;3;A
+359;02/06;17:30;Tarde;GT Leagues;Inter;Socrates;PSG;Professor;1;1;D
+360;02/06;17:30;Tarde;GT Leagues;Girona;Venom;A.Bilbao;Mars;3;3;D
+361;02/06;17:30;Tarde;GT Leagues;A.Madrid;Anthem;Barcelona;Raul;5;3;H
+362;02/06;17:15;Tarde;GT Leagues;Inter;Socrates;Real Madrid;Furious;1;3;A
+363;02/06;17:15;Tarde;GT Leagues;PSG;Professor;Bayern;David;4;2;H
+364;02/06;17:15;Tarde;GT Leagues;A.Madrid;Anthem;A.Bilbao;Mars;2;3;A
+365;02/06;17:15;Tarde;GT Leagues;Real Madrid;Seagal;Barcelona;Raul;1;2;A
+366;02/06;17:00;Tarde;GT Leagues;Man City;Saigon;Inter;Socrates;2;3;A
+367;02/06;17:00;Tarde;GT Leagues;PSG;Professor;Real Madrid;Furious;2;2;D
+368;02/06;17:00;Tarde;GT Leagues;Real Madrid;Seagal;Girona;Venom;2;2;D
+369;02/06;17:00;Tarde;GT Leagues;A.Bilbao;Mars;Barcelona;Raul;5;3;H
+370;02/06;16:45;Tarde;GT Leagues;Girona;Venom;Barcelona;Raul;1;2;A
+371;02/06;16:45;Tarde;GT Leagues;Real Madrid;Seagal;A.Madrid;Anthem;2;3;A
+372;02/06;16:30;Tarde;GT Leagues;Man City;Saigon;PSG;Professor;4;4;D
+373;02/06;16:30;Tarde;GT Leagues;Bayern;David;Real Madrid;Furious;5;5;D
+374;02/06;16:30;Tarde;GT Leagues;Girona;Venom;A.Madrid;Anthem;1;3;A
+375;02/06;16:30;Tarde;GT Leagues;A.Bilbao;Mars;Real Madrid;Seagal;2;3;A
+376;02/06;16:15;Tarde;GT Leagues;Man City;Saigon;Real Madrid;Furious;4;0;H
+377;02/06;16:15;Tarde;GT Leagues;Bayern;David;Inter;Socrates;3;2;H
+378;02/06;16:15;Tarde;GT Leagues;A.Bilbao;Mars;Girona;Venom;3;2;H
+379;02/06;16:15;Tarde;GT Leagues;Barcelona;Raul;A.Madrid;Anthem;1;1;D
+380;02/06;16:00;Tarde;GT Leagues;Bayern;David;Man City;Saigon;2;5;A
+381;02/06;16:00;Tarde;GT Leagues;PSG;Professor;Inter;Socrates;2;4;A
+382;02/06;16:00;Tarde;GT Leagues;A.Bilbao;Mars;A.Madrid;Anthem;3;5;A
+383;02/06;16:00;Tarde;GT Leagues;Barcelona;Raul;Real Madrid;Seagal;3;1;H
+384;02/06;15:45;Tarde;GT Leagues;Real Madrid;Furious;Inter;Socrates;5;2;H
+385;02/06;15:45;Tarde;GT Leagues;Bayern;David;PSG;Professor;2;3;A
+386;02/06;15:45;Tarde;GT Leagues;Girona;Venom;Real Madrid;Seagal;1;4;A
+387;02/06;15:45;Tarde;GT Leagues;Barcelona;Raul;A.Bilbao;Mars;1;2;A
+388;02/06;15:30;Tarde;GT Leagues;Inter;Socrates;Man City;Saigon;4;1;H
+389;02/06;15:30;Tarde;GT Leagues;Real Madrid;Furious;PSG;Professor;4;3;H
+390;02/06;15:30;Tarde;GT Leagues;Barcelona;Raul;Girona;Venom;0;2;A
+391;02/06;15:30;Tarde;GT Leagues;A.Madrid;Anthem;Real Madrid;Seagal;0;4;A
+392;02/06;15:15;Tarde;GT Leagues;Porto;Professor;Leipzig;Saigon;3;2;H
+393;02/06;15:15;Tarde;GT Leagues;Napoli;Furious;A.Madrid;David;3;2;H
+394;02/06;15:15;Tarde;GT Leagues;A.Madrid;Anthem;Girona;Venom;1;4;A
+395;02/06;15:15;Tarde;GT Leagues;Real Madrid;Seagal;A.Bilbao;Mars;1;4;A
+396;02/06;15:00;Tarde;GT Leagues;PSV;Socrates;A.Madrid;David;2;4;A
+397;02/06;15:00;Tarde;GT Leagues;Napoli;Furious;Leipzig;Saigon;5;2;H
+398;02/06;15:00;Tarde;GT Leagues;Dortmund;Venom;Copenhagen;Mars;4;2;H
+399;02/06;15:00;Tarde;GT Leagues;Barcelona;Anthem;Arsenal;Raul;2;4;A
+400;02/06;14:45;Tarde;GT Leagues;PSV;Socrates;Porto;Professor;4;1;H
+401;02/06;14:45;Tarde;GT Leagues;Leipzig;Saigon;A.Madrid;David;3;1;H
+402;02/06;14:45;Tarde;GT Leagues;Barcelona;Anthem;Copenhagen;Mars;3;3;D
+403;02/06;14:45;Tarde;GT Leagues;Lazio;Seagal;Arsenal;Raul;5;3;H
+404;02/06;14:30;Tarde;GT Leagues;Porto;Professor;A.Madrid;David;2;2;D
+405;02/06;14:30;Tarde;GT Leagues;PSV;Socrates;Napoli;Furious;2;3;A
+406;02/06;14:30;Tarde;GT Leagues;Lazio;Seagal;Dortmund;Venom;2;7;A
+407;02/06;14:30;Tarde;GT Leagues;Copenhagen;Mars;Arsenal;Raul;2;1;H
+408;02/06;14:15;Tarde;GT Leagues;Leipzig;Saigon;PSV;Socrates;4;4;D
+409;02/06;14:15;Tarde;GT Leagues;Porto;Professor;Napoli;Furious;1;3;A
+410;02/06;14:15;Tarde;GT Leagues;Lazio;Seagal;Barcelona;Anthem;3;1;H
+411;02/06;14:15;Tarde;GT Leagues;Dortmund;Venom;Arsenal;Raul;0;3;A
+412;02/06;14:00;Tarde;GT Leagues;A.Madrid;David;Napoli;Furious;2;2;D
+413;02/06;14:00;Tarde;GT Leagues;Dortmund;Venom;Barcelona;Anthem;6;3;H
+414;02/06;14:00;Tarde;GT Leagues;Copenhagen;Mars;Lazio;Seagal;0;2;A
+415;02/06;13:45;Tarde;GT Leagues;Leipzig;Saigon;Napoli;Furious;4;3;H
+416;02/06;13:45;Tarde;GT Leagues;A.Madrid;David;PSV;Socrates;1;3;A
+417;02/06;13:30;Tarde;GT Leagues;A.Madrid;David;Leipzig;Saigon;3;4;A
+418;02/06;13:30;Tarde;GT Leagues;Copenhagen;Mars;Dortmund;Venom;2;4;A
+419;02/06;13:30;Tarde;GT Leagues;Arsenal;Raul;Barcelona;Anthem;3;0;H
+420;02/06;13:15;Tarde;GT Leagues;Napoli;Furious;PSV;Socrates;3;4;A
+421;02/06;13:15;Tarde;GT Leagues;A.Madrid;David;Porto;Professor;4;2;H
+422;02/06;13:15;Tarde;GT Leagues;Copenhagen;Mars;Barcelona;Anthem;3;7;A
+423;02/06;13:15;Tarde;GT Leagues;Arsenal;Raul;Lazio;Seagal;1;2;A
+424;02/06;13:00;Tarde;GT Leagues;PSV;Socrates;Leipzig;Saigon;2;2;D
+425;02/06;13:00;Tarde;GT Leagues;Napoli;Furious;Porto;Professor;3;2;H
+426;02/06;13:00;Tarde;GT Leagues;Dortmund;Venom;Lazio;Seagal;2;1;H
+427;02/06;13:00;Tarde;GT Leagues;Arsenal;Raul;Copenhagen;Mars;1;3;A
+428;02/06;12:45;Tarde;GT Leagues;Arsenal;Raul;Dortmund;Venom;1;4;A
+429;02/06;12:45;Tarde;GT Leagues;Barcelona;Anthem;Lazio;Seagal;5;4;H
+430;02/06;12:30;Tarde;GT Leagues;PSG;Pele;Man City;Cruise;5;1;H
+431;02/06;12:30;Tarde;GT Leagues;Real Madrid;Dennis;Bayern;Pontiac;2;2;D
+432;02/06;12:30;Tarde;GT Leagues;Barcelona;Anthem;Dortmund;Venom;3;3;D
+433;02/06;12:30;Tarde;GT Leagues;Lazio;Seagal;Copenhagen;Mars;3;1;H
+434;02/06;12:15;Tarde;GT Leagues;Real Madrid;Dennis;Man City;Cruise;2;7;A
+435;02/06;12:15;Tarde;GT Leagues;Inter;Gorilla;Bayern;Pontiac;2;5;A
+436;02/06;12:15;Tarde;GT Leagues;Bayer 04;Venom;Toulouse;Mars;2;3;A
+437;02/06;12:15;Tarde;GT Leagues;Atalanta;Anthem;Sporting;Raul;1;3;A
+438;02/06;12:00;Tarde;GT Leagues;Inter;Gorilla;PSG;Pele;1;4;A
+439;02/06;12:00;Tarde;GT Leagues;Man City;Cruise;Bayern;Pontiac;3;2;H
+440;02/06;12:00;Tarde;GT Leagues;Feyenoord;Seagal;Sporting;Raul;1;0;H
+441;02/06;12:00;Tarde;GT Leagues;Atalanta;Anthem;Toulouse;Mars;4;0;H
+442;02/06;11:45;Manhã;GT Leagues;PSG;Pele;Bayern;Pontiac;4;5;A
+443;02/06;11:45;Manhã;GT Leagues;Inter;Gorilla;Real Madrid;Dennis;1;2;A
+444;02/06;11:45;Manhã;GT Leagues;Feyenoord;Seagal;Bayer 04;Venom;3;4;A
+445;02/06;11:45;Manhã;GT Leagues;Toulouse;Mars;Sporting;Raul;3;2;H
+446;02/06;11:30;Manhã;GT Leagues;Bayer 04;Venom;Sporting;Raul;2;1;H
+447;02/06;11:30;Manhã;GT Leagues;Feyenoord;Seagal;Atalanta;Anthem;6;3;H
+448;02/06;11:15;Manhã;GT Leagues;Man City;Cruise;PSG;Pele;2;2;D
+449;02/06;11:15;Manhã;GT Leagues;Bayern;Pontiac;Real Madrid;Dennis;4;2;H
+450;02/06;11:15;Manhã;GT Leagues;Bayer 04;Venom;Atalanta;Anthem;6;2;H
+451;02/06;11:15;Manhã;GT Leagues;Toulouse;Mars;Feyenoord;Seagal;3;2;H
+452;02/06;11:00;Manhã;GT Leagues;Man City;Cruise;Real Madrid;Dennis;3;2;H
+453;02/06;11:00;Manhã;GT Leagues;Bayern;Pontiac;Inter;Gorilla;0;0;D
+454;02/06;11:00;Manhã;GT Leagues;Toulouse;Mars;Bayer 04;Venom;0;2;A
+455;02/06;11:00;Manhã;GT Leagues;Sporting;Raul;Atalanta;Anthem;4;3;H
+456;02/06;10:45;Manhã;GT Leagues;PSG;Pele;Inter;Gorilla;4;0;H
+457;02/06;10:45;Manhã;GT Leagues;Bayern;Pontiac;Man City;Cruise;3;5;A
+458;02/06;10:45;Manhã;GT Leagues;Sporting;Raul;Feyenoord;Seagal;1;4;A
+459;02/06;10:45;Manhã;GT Leagues;Toulouse;Mars;Atalanta;Anthem;5;4;H
+460;02/06;10:30;Manhã;GT Leagues;Bayern;Pontiac;PSG;Pele;5;7;A
+461;02/06;10:30;Manhã;GT Leagues;Real Madrid;Dennis;Inter;Gorilla;2;4;A
+462;02/06;10:30;Manhã;GT Leagues;Bayer 04;Venom;Feyenoord;Seagal;1;0;H
+463;02/06;10:15;Manhã;GT Leagues;Real Madrid;Dennis;PSG;Pele;3;5;A
+464;02/06;10:15;Manhã;GT Leagues;Inter;Gorilla;Man City;Cruise;3;2;H
+465;02/06;10:15;Manhã;GT Leagues;Atalanta;Anthem;Feyenoord;Seagal;1;4;A
+466;02/06;10:15;Manhã;GT Leagues;Sporting;Raul;Bayer 04;Venom;1;1;D
+467;02/06;10:00;Manhã;GT Leagues;West Ham;Dennis;Villarreal;Pontiac;2;0;H
+468;02/06;10:00;Manhã;GT Leagues;AC Milan;Pele;Benfica;Cruise;7;5;H
+469;02/06;10:00;Manhã;GT Leagues;Atalanta;Anthem;Bayer 04;Venom;1;2;A
+470;02/06;10:00;Manhã;GT Leagues;Feyenoord;Seagal;Toulouse;Mars;1;1;D
+471;02/06;09:45;Manhã;GT Leagues;Marseille;Gorilla;Villarreal;Pontiac;4;3;H
+472;02/06;09:45;Manhã;GT Leagues;West Ham;Dennis;Benfica;Cruise;1;2;A
+473;02/06;09:30;Manhã;GT Leagues;Benfica;Cruise;Villarreal;Pontiac;4;5;A
+474;02/06;09:30;Manhã;GT Leagues;Marseille;Gorilla;AC Milan;Pele;4;6;A
+475;02/06;09:30;Manhã;GT Leagues;Bayer 04;Magdy;Dortmund;Panic;2;1;H
+476;02/06;09:30;Manhã;GT Leagues;RB Leipzig;Nazario;Bayern;Punisher;5;3;H
+477;02/06;09:15;Manhã;GT Leagues;AC Milan;Pele;Villarreal;Pontiac;5;4;H
+478;02/06;09:15;Manhã;GT Leagues;Marseille;Gorilla;West Ham;Dennis;2;1;H
+479;02/06;09:15;Manhã;GT Leagues;VfB Stuttgart;Aladdin;Dortmund;Panic;1;3;A
+480;02/06;09:15;Manhã;GT Leagues;Bayer 04;Magdy;Bayern;Punisher;0;1;A
+481;02/06;09:00;Manhã;GT Leagues;Benfica;Cruise;Marseille;Gorilla;5;4;H
+482;02/06;09:00;Manhã;GT Leagues;AC Milan;Pele;West Ham;Dennis;3;4;A
+483;02/06;09:00;Manhã;GT Leagues;VfB Stuttgart;Aladdin;RB Leipzig;Nazario;2;3;A
+484;02/06;09:00;Manhã;GT Leagues;Bayern;Punisher;Dortmund;Panic;3;5;A
+485;02/06;08:45;Manhã;GT Leagues;VfB Stuttgart;Aladdin;Bayer 04;Magdy;3;5;A
+486;02/06;08:45;Manhã;GT Leagues;RB Leipzig;Nazario;Dortmund;Panic;4;2;H
+487;02/06;08:30;Manhã;GT Leagues;Benfica;Cruise;AC Milan;Pele;1;1;D
+488;02/06;08:30;Manhã;GT Leagues;Bayern;Punisher;VfB Stuttgart;Aladdin;1;3;A
+489;02/06;08:30;Manhã;GT Leagues;RB Leipzig;Nazario;Bayer 04;Magdy;4;2;H
+490;02/06;08:15;Manhã;GT Leagues;Villarreal;Pontiac;Marseille;Gorilla;5;2;H
+491;02/06;08:15;Manhã;GT Leagues;Benfica;Cruise;West Ham;Dennis;1;1;D
+492;02/06;08:15;Manhã;GT Leagues;Dortmund;Panic;Bayer 04;Magdy;2;2;D
+493;02/06;08:15;Manhã;GT Leagues;Bayern;Punisher;RB Leipzig;Nazario;3;4;A
+494;02/06;08:00;Manhã;GT Leagues;Villarreal;Pontiac;Benfica;Cruise;6;4;H
+495;02/06;08:00;Manhã;GT Leagues;Dortmund;Panic;VfB Stuttgart;Aladdin;0;1;A
+496;02/06;08:00;Manhã;GT Leagues;Bayern;Punisher;Bayer 04;Magdy;3;5;A
+497;02/06;07:45;Manhã;GT Leagues;Villarreal;Pontiac;AC Milan;Pele;2;4;A
+498;02/06;07:45;Manhã;GT Leagues;Dortmund;Panic;Bayern;Punisher;3;6;A
+499;02/06;07:30;Manhã;GT Leagues;West Ham;Dennis;AC Milan;Pele;2;4;A
+500;02/06;07:30;Manhã;GT Leagues;Marseille;Gorilla;Benfica;Cruise;5;2;H
+501;02/06;07:30;Manhã;GT Leagues;Bayer 04;Magdy;VfB Stuttgart;Aladdin;5;6;A
+502;02/06;07:30;Manhã;GT Leagues;Dortmund;Panic;RB Leipzig;Nazario;5;2;H
+503;02/06;07:15;Manhã;GT Leagues;Man City;Pele;Man Utd;Cruise;4;4;D
+504;02/06;07:15;Manhã;GT Leagues;Tottenham;Dennis;Arsenal;Pontiac;3;3;D
+505;02/06;07:15;Manhã;GT Leagues;VfB Stuttgart;Aladdin;Bayern;Punisher;2;2;D
+506;02/06;07:15;Manhã;GT Leagues;Bayer 04;Magdy;RB Leipzig;Nazario;4;3;H
+507;02/06;07:00;Manhã;GT Leagues;Tottenham;Dennis;Man Utd;Cruise;4;1;H
+508;02/06;07:00;Manhã;GT Leagues;Aston Villa;Gorilla;Arsenal;Pontiac;2;1;H
+509;02/06;07:00;Manhã;GT Leagues;Lille;Nazario;Real Betis;Punisher;1;4;A
+510;02/06;07:00;Manhã;GT Leagues;PAOK;Magdy;Ajax;Panic;2;6;A
+511;02/06;06:45;Manhã;GT Leagues;Aston Villa;Gorilla;Man City;Pele;2;5;A
+512;02/06;06:45;Manhã;GT Leagues;Man Utd;Cruise;Arsenal;Pontiac;5;6;A
+513;02/06;06:45;Manhã;GT Leagues;PAOK;Magdy;Real Betis;Punisher;4;4;D
+514;02/06;06:30;Manhã;GT Leagues;Man City;Pele;Arsenal;Pontiac;7;2;H
+515;02/06;06:30;Manhã;GT Leagues;Aston Villa;Gorilla;Tottenham;Dennis;2;0;H
+516;02/06;06:30;Manhã;GT Leagues;Real Betis;Punisher;Ajax;Panic;4;5;A
+517;02/06;06:30;Manhã;GT Leagues;Aston Villa;Aladdin;Lille;Nazario;3;3;D
+518;02/06;06:15;Manhã;GT Leagues;Man City;Pele;Tottenham;Dennis;2;6;A
+519;02/06;06:15;Manhã;GT Leagues;Lille;Nazario;Ajax;Panic;3;5;A
+520;02/06;06:15;Manhã;GT Leagues;Aston Villa;Aladdin;PAOK;Magdy;0;3;A
+521;02/06;06:00;Manhã;GT Leagues;Man Utd;Cruise;Man City;Pele;3;3;D
+522;02/06;06:00;Manhã;GT Leagues;Arsenal;Pontiac;Tottenham;Dennis;3;3;D
+523;02/06;06:00;Manhã;GT Leagues;Real Betis;Punisher;Aston Villa;Aladdin;3;1;H
+524;02/06;05:45;Madrugada;GT Leagues;Arsenal;Pontiac;Aston Villa;Gorilla;3;4;A
+525;02/06;05:45;Madrugada;GT Leagues;Man Utd;Cruise;Tottenham;Dennis;3;3;D
+526;02/06;05:30;Madrugada;GT Leagues;Man City;Pele;Aston Villa;Gorilla;5;1;H
+527;02/06;05:30;Madrugada;GT Leagues;Arsenal;Pontiac;Man Utd;Cruise;1;2;A
+528;02/06;05:30;Madrugada;GT Leagues;Ajax;Panic;PAOK;Magdy;1;2;A
+529;02/06;05:30;Madrugada;GT Leagues;Real Betis;Punisher;Lille;Nazario;4;2;H
+530;02/06;05:15;Madrugada;GT Leagues;Arsenal;Pontiac;Man City;Pele;3;6;A
+531;02/06;05:15;Madrugada;GT Leagues;Tottenham;Dennis;Aston Villa;Gorilla;2;1;H
+532;02/06;05:15;Madrugada;GT Leagues;Real Betis;Punisher;PAOK;Magdy;3;5;A
+533;02/06;05:15;Madrugada;GT Leagues;Ajax;Panic;Aston Villa;Aladdin;2;3;A
+534;02/06;05:00;Madrugada;GT Leagues;Tottenham;Dennis;Man City;Pele;2;1;H
+535;02/06;05:00;Madrugada;GT Leagues;Ajax;Panic;Real Betis;Punisher;4;7;A
+536;02/06;05:00;Madrugada;GT Leagues;Lille;Nazario;Aston Villa;Aladdin;1;3;A
+537;02/06;04:45;Madrugada;GT Leagues;Ajax;Panic;Lille;Nazario;6;8;A
+538;02/06;04:45;Madrugada;GT Leagues;PAOK;Magdy;Aston Villa;Aladdin;1;2;A
+539;02/06;04:30;Madrugada;GT Leagues;Aston Villa;Aladdin;Real Betis;Punisher;2;3;A
+540;02/06;04:15;Madrugada;GT Leagues;PSG;Nazario;Man City;Punisher;4;3;H
+541;02/06;04:15;Madrugada;GT Leagues;Real Madrid;Magdy;Bayern;Panic;4;3;H
+542;02/06;04:00;Madrugada;GT Leagues;Real Madrid;Magdy;Man City;Punisher;4;1;H
+543;02/06;04:00;Madrugada;GT Leagues;Inter;Aladdin;Bayern;Panic;2;2;D
+544;02/06;03:45;Madrugada;GT Leagues;Inter;Aladdin;PSG;Nazario;5;3;H
+545;02/06;03:45;Madrugada;GT Leagues;Man City;Punisher;Bayern;Panic;2;5;A
+546;02/06;03:30;Madrugada;GT Leagues;PSG;Nazario;Bayern;Panic;2;2;D
+547;02/06;03:30;Madrugada;GT Leagues;Inter;Aladdin;Real Madrid;Magdy;1;3;A
+548;02/06;03:15;Madrugada;GT Leagues;Man City;Punisher;Inter;Aladdin;1;1;D
+549;02/06;03:15;Madrugada;GT Leagues;PSG;Nazario;Real Madrid;Magdy;2;2;D
+550;02/06;03:00;Madrugada;GT Leagues;Bayern;Panic;Real Madrid;Magdy;3;1;H
+551;02/06;03:00;Madrugada;GT Leagues;Man City;Punisher;PSG;Nazario;2;0;H
+552;02/06;02:45;Madrugada;GT Leagues;Man City;Punisher;Real Madrid;Magdy;3;4;A
+553;02/06;02:45;Madrugada;GT Leagues;Bayern;Panic;Inter;Aladdin;3;2;H
+554;02/06;02:30;Madrugada;GT Leagues;PSG;Nazario;Inter;Aladdin;3;3;D
+555;02/06;02:30;Madrugada;GT Leagues;Bayern;Panic;Man City;Punisher;3;0;H
+556;02/06;02:15;Madrugada;GT Leagues;Bayern;Panic;PSG;Nazario;3;4;A
+557;02/06;02:15;Madrugada;GT Leagues;Real Madrid;Magdy;Inter;Aladdin;4;5;A
+558;02/06;02:00;Madrugada;GT Leagues;Real Madrid;Magdy;PSG;Nazario;1;3;A
+559;02/06;02:00;Madrugada;GT Leagues;Inter;Aladdin;Man City;Punisher;3;1;H
+560;02/06;01:30;Madrugada;GT Leagues;West Ham;val;Villarreal;General;3;1;H
+561;02/06;01:30;Madrugada;GT Leagues;AC Milan;Votepeace;Benfica;aibothard;4;4;D
+562;02/06;01:15;Madrugada;GT Leagues;West Ham;val;Benfica;aibothard;0;3;A
+563;02/06;01:00;Madrugada;GT Leagues;Benfica;aibothard;Villarreal;General;3;2;H
+564;02/06;01:00;Madrugada;GT Leagues;Marseille;Chemist;AC Milan;Votepeace;1;2;A
+565;02/06;00:45;Madrugada;GT Leagues;Marseille;Chemist;West Ham;val;3;2;H
+566;02/06;00:45;Madrugada;GT Leagues;AC Milan;Votepeace;Villarreal;General;3;2;H
+567;02/06;00:30;Madrugada;GT Leagues;AC Milan;Votepeace;West Ham;val;4;4;D
+568;02/06;00:30;Madrugada;GT Leagues;Benfica;aibothard;Marseille;Chemist;2;3;A
+569;02/06;00:15;Madrugada;GT Leagues;Benfica;aibothard;AC Milan;Votepeace;4;2;H
+570;02/06;00:15;Madrugada;GT Leagues;Villarreal;General;West Ham;val;3;5;A
+571;02/06;00:00;Madrugada;GT Leagues;Villarreal;General;Marseille;Chemist;0;4;A
+572;02/06;00:00;Madrugada;GT Leagues;Benfica;aibothard;West Ham;val;2;4;A
+573;02/05;23:45;Noite;GT Leagues;AC Milan;Votepeace;Marseille;Chemist;2;2;D
+574;02/05;23:45;Noite;GT Leagues;Villarreal;General;Benfica;aibothard;4;0;H
