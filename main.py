@@ -37,14 +37,14 @@ from tqdm import tqdm
 from selenium.webdriver.common.by import By
 
 """# Iniciando a Raspagem de Dados"""
-# https://pt.betsapi.com/le/33440/Esoccer-Adriatic-League--10-mins-play/p.1
-# https://pt.betsapi.com/le/23114/Esoccer-GT-Leagues-%E2%80%93-12-mins-play/p.1
-# https://pt.betsapi.com/le/22614/Esoccer-Battle--8-mins-play/p.1
+link = 'https://pt.betsapi.com/le/33440/Esoccer-Adriatic-League--10-mins-play/p.'
+#link = 'https://pt.betsapi.com/le/23114/Esoccer-GT-Leagues-%E2%80%93-12-mins-play/p.'
+#link = 'https://pt.betsapi.com/le/22614/Esoccer-Battle--8-mins-play/p.'
 
 # Liga
-League = 'GT_Leagues'
 League = 'Adriatic_League'
-League = 'ESoccer_Battle'
+#League = 'GT_Leagues'
+#League = 'ESoccer_Battle'
 
 # Quantidade de páginas
 pages = 20
@@ -58,7 +58,7 @@ jogo = {
 # Lista de links
 for i in tqdm(range(1, pages+1)):
     # Com o WebDrive a gente consegue a pedir a página (URL)
-    wd_Chrome.get(f'https://pt.betsapi.com/le/22614/Esoccer-Battle--8-mins-play/p.{i}')
+    wd_Chrome.get(f'{link}{i}')
     time.sleep(3)
 
     # Para pegar todas as linhas (tr) da tabela
